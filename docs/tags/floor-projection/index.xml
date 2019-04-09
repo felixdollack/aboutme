@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Floor projection on Felix</title>
-    <link>https://felixdollack.github.io/tags/floor-projection/</link>
+    <link>https://felixdollack.github.io/aboutme/tags/floor-projection/</link>
     <description>Recent content in Floor projection on Felix</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 08 Apr 2019 00:00:00 +0900</lastBuildDate>
     
-	<atom:link href="https://felixdollack.github.io/tags/floor-projection/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://felixdollack.github.io/aboutme/tags/floor-projection/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>El Astrocade</title>
-      <link>https://felixdollack.github.io/project/elastrocade/</link>
+      <link>https://felixdollack.github.io/aboutme/project/elastrocade/</link>
       <pubDate>Mon, 08 Apr 2019 00:00:00 +0900</pubDate>
       
-      <guid>https://felixdollack.github.io/project/elastrocade/</guid>
+      <guid>https://felixdollack.github.io/aboutme/project/elastrocade/</guid>
       <description>Description coming soon&amp;hellip;</description>
     </item>
     
