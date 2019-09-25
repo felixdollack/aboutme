@@ -1,9 +1,10 @@
 +++
 title = "On the Analysis of Acoustic Distance Perception in a Head Mounted Display"
 date = 2017-11-01T00:00:00
-
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["F. Dollack", "C. Imbery", "J. Bitzer,"]
+# Digital Object Identifier (DOI)
+doi = "10.2312/egve.20171338"
 
 # Publication type.
 # Legend:
@@ -25,9 +26,6 @@ abstract = "Recent work has shown that distance perception in virtual reality is
 
 # Summary. An optional shortened abstract.
 summary = "The present study investigates how a visual stimulus effects acoustic distance perception in virtual environments. Participants were asked to estimate egocentric distance to the sound source in two conditions: auditory with GUI (A), auditory with HMD (A+V). We found that a systematical offset is introduced by the visual stimulus."
-
-# Digital Object Identifier (DOI)
-doi = "10.2312/egve.20171338"
 
 # Is this a featured publication? (true/false)
 featured = true
