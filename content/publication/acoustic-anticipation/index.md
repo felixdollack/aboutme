@@ -3,7 +3,7 @@ title = "Gaze and head anticipation during locomotion with auditory instruction 
 date = 2019-04-30T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["F. Dollack", "M. Perusquía-Hernandéz", "H. Kadone", "K. Suzuki"]
+authors = ["F. Dollack", "M. Perusquía-Hernández", "H. Kadone", "K. Suzuki"]
 
 # Publication type.
 # Legend:
@@ -17,8 +17,8 @@ authors = ["F. Dollack", "M. Perusquía-Hernandéz", "H. Kadone", "K. Suzuki"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *vironments (ICAT-EGVE)*."
-publication_short = "In *ICAVE*"
+publication = "In *Frontiers of Human Neuroscience*."
+publication_short = "In *Frontiers*"
 
 # Abstract.
 abstract = ""
@@ -27,7 +27,7 @@ abstract = ""
 summary = ""
 
 # Digital Object Identifier (DOI)
-doi = ""
+doi = "10.3389/fnhum.2019.00293"
 
 # Is this a featured publication? (true/false)
 featured = true
@@ -45,7 +45,7 @@ tags = ['acoustic perception', 'psychoacoustics', 'head anticipation', 'gait']
 projects = []
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://www.frontiersin.org/article/10.3389/fnhum.2019.00293"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
