@@ -1,9 +1,9 @@
 +++
-title = "Effect of voluntary gaze movement on gait steering control​"
+title = "Effect of voluntary gaze movement on gait steering control"
 date = 2019-06-29T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["F. Dollack", "M. Perusquía-Hernandéz", "H. Kadone", "K. Suzuki"]
+authors = ["F. Dollack", "M. Perusquía-Hernández", "H. Kadone", "K. Suzuki"]
 
 # Publication type.
 # Legend:
@@ -45,7 +45,7 @@ tags = ['motor planning', 'gait', 'eye movement']
 projects = []
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://www.researchgate.net/profile/Felix_Dollack/publication/333811259_Effect_of_voluntary_gaze_movement_on_gait_steering_control/links/5d1e13dfa6fdcc2462c0cd93/Effect-of-voluntary-gaze-movement-on-gait-steering-control.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
