@@ -24,4 +24,4 @@ We proposed a shooting game based on whole body motion. This game need 2 vs 2 pl
 
 This system make players active as much as possible, and we want to motivate obesity children  to move their body who love to play game.
 
-This project is under going.
+This project is ongoing.
