@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Felix on Felix</title>
+    <link>https://felixdollack.github.io/aboutme/</link>
+    <description>Recent content in Felix on Felix</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 08 Apr 2019 00:00:00 +0900</lastBuildDate>
+    <atom:link href="/aboutme/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>El Astrocade</title>
+      <link>https://felixdollack.github.io/aboutme/project/elastrocade/</link>
+      <pubDate>Mon, 08 Apr 2019 00:00:00 +0900</pubDate>
+      
+      <guid>https://felixdollack.github.io/aboutme/project/elastrocade/</guid>
+      <description>&lt;p&gt;Description coming soon&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>On the Analysis of Acoustic Distance Perception in a Head Mounted Display</title>
+      <link>https://felixdollack.github.io/aboutme/publication/acoustic-distance-perception/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0900</pubDate>
+      
+      <guid>https://felixdollack.github.io/aboutme/publication/acoustic-distance-perception/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Speech intelligibility in realistic listening situations for different numbers, azimuths and movement of speech or noise maskers</title>
+      <link>https://felixdollack.github.io/aboutme/publication/speech-intelligibility/</link>
+      <pubDate>Fri, 01 Mar 2013 00:00:00 +0900</pubDate>
+      
+      <guid>https://felixdollack.github.io/aboutme/publication/speech-intelligibility/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
