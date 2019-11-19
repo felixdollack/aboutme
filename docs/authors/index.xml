@@ -2,101 +2,101 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors | Felix</title>
-    <link>/authors/</link>
-      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://felixdollack.github.io/aboutme/authors/</link>
+      <atom:link href="https://felixdollack.github.io/aboutme/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2019</copyright><lastBuildDate>Sun, 30 Jun 2019 00:00:00 +0900</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://felixdollack.github.io/aboutme/img/icon-192.png</url>
       <title>Authors</title>
-      <link>/authors/</link>
+      <link>https://felixdollack.github.io/aboutme/authors/</link>
     </image>
     
     <item>
       <title>F. Dollack</title>
-      <link>/authors/f.-dollack/</link>
+      <link>https://felixdollack.github.io/aboutme/authors/f.-dollack/</link>
       <pubDate>Sun, 30 Jun 2019 00:00:00 +0900</pubDate>
-      <guid>/authors/f.-dollack/</guid>
+      <guid>https://felixdollack.github.io/aboutme/authors/f.-dollack/</guid>
       <description></description>
     </item>
     
     <item>
       <title>H. Kadone</title>
-      <link>/authors/h.-kadone/</link>
+      <link>https://felixdollack.github.io/aboutme/authors/h.-kadone/</link>
       <pubDate>Sun, 30 Jun 2019 00:00:00 +0900</pubDate>
-      <guid>/authors/h.-kadone/</guid>
+      <guid>https://felixdollack.github.io/aboutme/authors/h.-kadone/</guid>
       <description></description>
     </item>
     
     <item>
       <title>K. Suzuki</title>
-      <link>/authors/k.-suzuki/</link>
+      <link>https://felixdollack.github.io/aboutme/authors/k.-suzuki/</link>
       <pubDate>Sun, 30 Jun 2019 00:00:00 +0900</pubDate>
-      <guid>/authors/k.-suzuki/</guid>
+      <guid>https://felixdollack.github.io/aboutme/authors/k.-suzuki/</guid>
       <description></description>
     </item>
     
     <item>
       <title>M. Perusquía-Hernández</title>
-      <link>/authors/m.-perusquia-hernandez/</link>
+      <link>https://felixdollack.github.io/aboutme/authors/m.-perusquia-hernandez/</link>
       <pubDate>Sun, 30 Jun 2019 00:00:00 +0900</pubDate>
-      <guid>/authors/m.-perusquia-hernandez/</guid>
+      <guid>https://felixdollack.github.io/aboutme/authors/m.-perusquia-hernandez/</guid>
       <description></description>
     </item>
     
     <item>
       <title>C. Imbery</title>
-      <link>/authors/c.-imbery/</link>
+      <link>https://felixdollack.github.io/aboutme/authors/c.-imbery/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 +0900</pubDate>
-      <guid>/authors/c.-imbery/</guid>
+      <guid>https://felixdollack.github.io/aboutme/authors/c.-imbery/</guid>
       <description></description>
     </item>
     
     <item>
       <title>J. Bitzer,</title>
-      <link>/authors/j.-bitzer/</link>
+      <link>https://felixdollack.github.io/aboutme/authors/j.-bitzer/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 +0900</pubDate>
-      <guid>/authors/j.-bitzer/</guid>
+      <guid>https://felixdollack.github.io/aboutme/authors/j.-bitzer/</guid>
       <description></description>
     </item>
     
     <item>
       <title>G. Eberlei</title>
-      <link>/authors/g.-eberlei/</link>
+      <link>https://felixdollack.github.io/aboutme/authors/g.-eberlei/</link>
       <pubDate>Fri, 01 Mar 2013 00:00:00 +0900</pubDate>
-      <guid>/authors/g.-eberlei/</guid>
+      <guid>https://felixdollack.github.io/aboutme/authors/g.-eberlei/</guid>
       <description></description>
     </item>
     
     <item>
       <title>H.-L. Grahlmann</title>
-      <link>/authors/h.-l.-grahlmann/</link>
+      <link>https://felixdollack.github.io/aboutme/authors/h.-l.-grahlmann/</link>
       <pubDate>Fri, 01 Mar 2013 00:00:00 +0900</pubDate>
-      <guid>/authors/h.-l.-grahlmann/</guid>
+      <guid>https://felixdollack.github.io/aboutme/authors/h.-l.-grahlmann/</guid>
       <description></description>
     </item>
     
     <item>
       <title>M. Hansen</title>
-      <link>/authors/m.-hansen/</link>
+      <link>https://felixdollack.github.io/aboutme/authors/m.-hansen/</link>
       <pubDate>Fri, 01 Mar 2013 00:00:00 +0900</pubDate>
-      <guid>/authors/m.-hansen/</guid>
+      <guid>https://felixdollack.github.io/aboutme/authors/m.-hansen/</guid>
       <description></description>
     </item>
     
     <item>
       <title>S. Raufer</title>
-      <link>/authors/s.-raufer/</link>
+      <link>https://felixdollack.github.io/aboutme/authors/s.-raufer/</link>
       <pubDate>Fri, 01 Mar 2013 00:00:00 +0900</pubDate>
-      <guid>/authors/s.-raufer/</guid>
+      <guid>https://felixdollack.github.io/aboutme/authors/s.-raufer/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>/authors/admin/</link>
+      <link>https://felixdollack.github.io/aboutme/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/admin/</guid>
+      <guid>https://felixdollack.github.io/aboutme/authors/admin/</guid>
       <description>&lt;p&gt;Felix Dollack is a PhD candidate in human informatics at the University of Tsukuba. His research interests include artificial intelligence, affective computing and psychoacoustics. He received BEng and MSc degrees in hearing technology and audiology from Jade University of applied sciences and University of Oldenburg in Germany.&lt;/p&gt;
 </description>
     </item>

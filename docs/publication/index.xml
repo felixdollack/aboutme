@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications | Felix</title>
-    <link>/publication/</link>
-      <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://felixdollack.github.io/aboutme/publication/</link>
+      <atom:link href="https://felixdollack.github.io/aboutme/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2019</copyright><lastBuildDate>Sun, 30 Jun 2019 00:00:00 +0900</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://felixdollack.github.io/aboutme/img/icon-192.png</url>
       <title>Publications</title>
-      <link>/publication/</link>
+      <link>https://felixdollack.github.io/aboutme/publication/</link>
     </image>
     
     <item>
       <title>Head anticipation during auditory instructed locomotion​</title>
-      <link>/publication/ispgr-june-2019-late/</link>
+      <link>https://felixdollack.github.io/aboutme/publication/ispgr-june-2019-late/</link>
       <pubDate>Sun, 30 Jun 2019 00:00:00 +0900</pubDate>
-      <guid>/publication/ispgr-june-2019-late/</guid>
+      <guid>https://felixdollack.github.io/aboutme/publication/ispgr-june-2019-late/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Effect of voluntary gaze movement on gait steering control</title>
-      <link>/publication/ispgr-june-2019/</link>
+      <link>https://felixdollack.github.io/aboutme/publication/ispgr-june-2019/</link>
       <pubDate>Sat, 29 Jun 2019 00:00:00 +0900</pubDate>
-      <guid>/publication/ispgr-june-2019/</guid>
+      <guid>https://felixdollack.github.io/aboutme/publication/ispgr-june-2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Gaze and head anticipation during locomotion with auditory instruction in the presence and absence of visual input</title>
-      <link>/publication/frontiers-aug-2019/</link>
+      <link>https://felixdollack.github.io/aboutme/publication/frontiers-aug-2019/</link>
       <pubDate>Tue, 30 Apr 2019 00:00:00 +0900</pubDate>
-      <guid>/publication/frontiers-aug-2019/</guid>
+      <guid>https://felixdollack.github.io/aboutme/publication/frontiers-aug-2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>On the Analysis of Acoustic Distance Perception in a Head Mounted Display</title>
-      <link>/publication/icat-nov-2017/</link>
+      <link>https://felixdollack.github.io/aboutme/publication/icat-nov-2017/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 +0900</pubDate>
-      <guid>/publication/icat-nov-2017/</guid>
+      <guid>https://felixdollack.github.io/aboutme/publication/icat-nov-2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Speech intelligibility in realistic listening situations for different numbers, azimuths and movement of speech or noise maskers</title>
-      <link>/publication/daga-march-2013/</link>
+      <link>https://felixdollack.github.io/aboutme/publication/daga-march-2013/</link>
       <pubDate>Fri, 01 Mar 2013 00:00:00 +0900</pubDate>
-      <guid>/publication/daga-march-2013/</guid>
+      <guid>https://felixdollack.github.io/aboutme/publication/daga-march-2013/</guid>
       <description></description>
     </item>
     

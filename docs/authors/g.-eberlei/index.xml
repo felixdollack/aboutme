@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>G. Eberlei | Felix</title>
-    <link>/authors/g.-eberlei/</link>
-      <atom:link href="/authors/g.-eberlei/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://felixdollack.github.io/aboutme/authors/g.-eberlei/</link>
+      <atom:link href="https://felixdollack.github.io/aboutme/authors/g.-eberlei/index.xml" rel="self" type="application/rss+xml" />
     <description>G. Eberlei</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2019</copyright><lastBuildDate>Fri, 01 Mar 2013 00:00:00 +0900</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://felixdollack.github.io/aboutme/img/icon-192.png</url>
       <title>G. Eberlei</title>
-      <link>/authors/g.-eberlei/</link>
+      <link>https://felixdollack.github.io/aboutme/authors/g.-eberlei/</link>
     </image>
     
     <item>
       <title>Speech intelligibility in realistic listening situations for different numbers, azimuths and movement of speech or noise maskers</title>
-      <link>/publication/daga-march-2013/</link>
+      <link>https://felixdollack.github.io/aboutme/publication/daga-march-2013/</link>
       <pubDate>Fri, 01 Mar 2013 00:00:00 +0900</pubDate>
-      <guid>/publication/daga-march-2013/</guid>
+      <guid>https://felixdollack.github.io/aboutme/publication/daga-march-2013/</guid>
       <description></description>
     </item>
     

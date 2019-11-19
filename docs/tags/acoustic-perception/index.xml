@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>acoustic perception | Felix</title>
-    <link>/tags/acoustic-perception/</link>
-      <atom:link href="/tags/acoustic-perception/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://felixdollack.github.io/aboutme/tags/acoustic-perception/</link>
+      <atom:link href="https://felixdollack.github.io/aboutme/tags/acoustic-perception/index.xml" rel="self" type="application/rss+xml" />
     <description>acoustic perception</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2019</copyright><lastBuildDate>Tue, 30 Apr 2019 00:00:00 +0900</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://felixdollack.github.io/aboutme/img/icon-192.png</url>
       <title>acoustic perception</title>
-      <link>/tags/acoustic-perception/</link>
+      <link>https://felixdollack.github.io/aboutme/tags/acoustic-perception/</link>
     </image>
     
     <item>
       <title>Gaze and head anticipation during locomotion with auditory instruction in the presence and absence of visual input</title>
-      <link>/publication/frontiers-aug-2019/</link>
+      <link>https://felixdollack.github.io/aboutme/publication/frontiers-aug-2019/</link>
       <pubDate>Tue, 30 Apr 2019 00:00:00 +0900</pubDate>
-      <guid>/publication/frontiers-aug-2019/</guid>
+      <guid>https://felixdollack.github.io/aboutme/publication/frontiers-aug-2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>On the Analysis of Acoustic Distance Perception in a Head Mounted Display</title>
-      <link>/publication/icat-nov-2017/</link>
+      <link>https://felixdollack.github.io/aboutme/publication/icat-nov-2017/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 +0900</pubDate>
-      <guid>/publication/icat-nov-2017/</guid>
+      <guid>https://felixdollack.github.io/aboutme/publication/icat-nov-2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Speech intelligibility in realistic listening situations for different numbers, azimuths and movement of speech or noise maskers</title>
-      <link>/publication/daga-march-2013/</link>
+      <link>https://felixdollack.github.io/aboutme/publication/daga-march-2013/</link>
       <pubDate>Fri, 01 Mar 2013 00:00:00 +0900</pubDate>
-      <guid>/publication/daga-march-2013/</guid>
+      <guid>https://felixdollack.github.io/aboutme/publication/daga-march-2013/</guid>
       <description></description>
     </item>
     

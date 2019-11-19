@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Floor projection | Felix</title>
-    <link>/tags/floor-projection/</link>
-      <atom:link href="/tags/floor-projection/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://felixdollack.github.io/aboutme/tags/floor-projection/</link>
+      <atom:link href="https://felixdollack.github.io/aboutme/tags/floor-projection/index.xml" rel="self" type="application/rss+xml" />
     <description>Floor projection</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2019</copyright><lastBuildDate>Mon, 08 Apr 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://felixdollack.github.io/aboutme/img/icon-192.png</url>
       <title>Floor projection</title>
-      <link>/tags/floor-projection/</link>
+      <link>https://felixdollack.github.io/aboutme/tags/floor-projection/</link>
     </image>
     
     <item>
       <title>El Astrocade</title>
-      <link>/project/elastrocade/</link>
+      <link>https://felixdollack.github.io/aboutme/project/elastrocade/</link>
       <pubDate>Mon, 08 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>/project/elastrocade/</guid>
+      <guid>https://felixdollack.github.io/aboutme/project/elastrocade/</guid>
       <description>&lt;p&gt;We proposed a shooting game based on whole body motion. This game need 2 vs 2 players, and each team control one spaceship. the movement of one player corresponds to the spaceship movement in X direction, and the movement of another player corresponds to the movement in Y direction. This game is projected on floor and players move along the sides of projected screen. All player can shoot with jumping motion and make a shield with squat motion.&lt;/p&gt;
 
 &lt;p&gt;This system make players active as much as possible, and we want to motivate obesity children  to move their body who love to play game.&lt;/p&gt;

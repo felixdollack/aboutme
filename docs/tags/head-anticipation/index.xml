@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>head anticipation | Felix</title>
-    <link>/tags/head-anticipation/</link>
-      <atom:link href="/tags/head-anticipation/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://felixdollack.github.io/aboutme/tags/head-anticipation/</link>
+      <atom:link href="https://felixdollack.github.io/aboutme/tags/head-anticipation/index.xml" rel="self" type="application/rss+xml" />
     <description>head anticipation</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2019</copyright><lastBuildDate>Tue, 30 Apr 2019 00:00:00 +0900</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://felixdollack.github.io/aboutme/img/icon-192.png</url>
       <title>head anticipation</title>
-      <link>/tags/head-anticipation/</link>
+      <link>https://felixdollack.github.io/aboutme/tags/head-anticipation/</link>
     </image>
     
     <item>
       <title>Gaze and head anticipation during locomotion with auditory instruction in the presence and absence of visual input</title>
-      <link>/publication/frontiers-aug-2019/</link>
+      <link>https://felixdollack.github.io/aboutme/publication/frontiers-aug-2019/</link>
       <pubDate>Tue, 30 Apr 2019 00:00:00 +0900</pubDate>
-      <guid>/publication/frontiers-aug-2019/</guid>
+      <guid>https://felixdollack.github.io/aboutme/publication/frontiers-aug-2019/</guid>
       <description></description>
     </item>
     

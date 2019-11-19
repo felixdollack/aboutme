@@ -9,8 +9,8 @@ title = "Felix"
 
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "/"
-#baseurl = "https://felixdollack.github.io/aboutme/"
+#baseurl = "/"
+baseurl = "https://felixdollack.github.io/aboutme/"
 
 # Enter a copyright notice to display in the site footer.
 # To display a copyright symbol, type `&copy;`. For current year, type `{year}`.
