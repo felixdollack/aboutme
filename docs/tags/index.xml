@@ -1,67 +1,94 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Felix</title>
-    <link>https://felixdollack.github.io/aboutme/tags/</link>
-    <description>Recent content in Tags on Felix</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 08 Apr 2019 00:00:00 +0900</lastBuildDate>
-    
-	<atom:link href="https://felixdollack.github.io/aboutme/tags/index.xml" rel="self" type="application/rss+xml" />
-    
+    <title>Tags | Felix</title>
+    <link>/tags/</link>
+      <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tags</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2019</copyright><lastBuildDate>Sun, 30 Jun 2019 00:00:00 +0900</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Tags</title>
+      <link>/tags/</link>
+    </image>
     
     <item>
-      <title>Floor projection</title>
-      <link>https://felixdollack.github.io/aboutme/tags/floor-projection/</link>
-      <pubDate>Mon, 08 Apr 2019 00:00:00 +0900</pubDate>
-      
-      <guid>https://felixdollack.github.io/aboutme/tags/floor-projection/</guid>
+      <title>eye movement</title>
+      <link>/tags/eye-movement/</link>
+      <pubDate>Sun, 30 Jun 2019 00:00:00 +0900</pubDate>
+      <guid>/tags/eye-movement/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Interactive Gameplay</title>
-      <link>https://felixdollack.github.io/aboutme/tags/interactive-gameplay/</link>
-      <pubDate>Mon, 08 Apr 2019 00:00:00 +0900</pubDate>
-      
-      <guid>https://felixdollack.github.io/aboutme/tags/interactive-gameplay/</guid>
+      <title>gait</title>
+      <link>/tags/gait/</link>
+      <pubDate>Sun, 30 Jun 2019 00:00:00 +0900</pubDate>
+      <guid>/tags/gait/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>VR</title>
-      <link>https://felixdollack.github.io/aboutme/tags/vr/</link>
-      <pubDate>Wed, 01 Nov 2017 00:00:00 +0900</pubDate>
-      
-      <guid>https://felixdollack.github.io/aboutme/tags/vr/</guid>
+      <title>motor planning</title>
+      <link>/tags/motor-planning/</link>
+      <pubDate>Sun, 30 Jun 2019 00:00:00 +0900</pubDate>
+      <guid>/tags/motor-planning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>acoustic perception</title>
-      <link>https://felixdollack.github.io/aboutme/tags/acoustic-perception/</link>
-      <pubDate>Wed, 01 Nov 2017 00:00:00 +0900</pubDate>
-      
-      <guid>https://felixdollack.github.io/aboutme/tags/acoustic-perception/</guid>
+      <link>/tags/acoustic-perception/</link>
+      <pubDate>Tue, 30 Apr 2019 00:00:00 +0900</pubDate>
+      <guid>/tags/acoustic-perception/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>head anticipation</title>
+      <link>/tags/head-anticipation/</link>
+      <pubDate>Tue, 30 Apr 2019 00:00:00 +0900</pubDate>
+      <guid>/tags/head-anticipation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>psychoacoustics</title>
-      <link>https://felixdollack.github.io/aboutme/tags/psychoacoustics/</link>
+      <link>/tags/psychoacoustics/</link>
+      <pubDate>Tue, 30 Apr 2019 00:00:00 +0900</pubDate>
+      <guid>/tags/psychoacoustics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Floor projection</title>
+      <link>/tags/floor-projection/</link>
+      <pubDate>Mon, 08 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/floor-projection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interactive Gameplay</title>
+      <link>/tags/interactive-gameplay/</link>
+      <pubDate>Mon, 08 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/interactive-gameplay/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VR</title>
+      <link>/tags/vr/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 +0900</pubDate>
-      
-      <guid>https://felixdollack.github.io/aboutme/tags/psychoacoustics/</guid>
+      <guid>/tags/vr/</guid>
       <description></description>
     </item>
     
     <item>
       <title>speech intelligibility</title>
-      <link>https://felixdollack.github.io/aboutme/tags/speech-intelligibility/</link>
+      <link>/tags/speech-intelligibility/</link>
       <pubDate>Fri, 01 Mar 2013 00:00:00 +0900</pubDate>
-      
-      <guid>https://felixdollack.github.io/aboutme/tags/speech-intelligibility/</guid>
+      <guid>/tags/speech-intelligibility/</guid>
       <description></description>
     </item>
     

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>M. Perusquía-Hernández | Felix</title>
+    <link>/authors/m.-perusquia-hernandez/</link>
+      <atom:link href="/authors/m.-perusquia-hernandez/index.xml" rel="self" type="application/rss+xml" />
+    <description>M. Perusquía-Hernández</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2019</copyright><lastBuildDate>Sun, 30 Jun 2019 00:00:00 +0900</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>M. Perusquía-Hernández</title>
+      <link>/authors/m.-perusquia-hernandez/</link>
+    </image>
+    
+    <item>
+      <title>Head anticipation during auditory instructed locomotion​</title>
+      <link>/publication/ispgr-june-2019-late/</link>
+      <pubDate>Sun, 30 Jun 2019 00:00:00 +0900</pubDate>
+      <guid>/publication/ispgr-june-2019-late/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effect of voluntary gaze movement on gait steering control</title>
+      <link>/publication/ispgr-june-2019/</link>
+      <pubDate>Sat, 29 Jun 2019 00:00:00 +0900</pubDate>
+      <guid>/publication/ispgr-june-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gaze and head anticipation during locomotion with auditory instruction in the presence and absence of visual input</title>
+      <link>/publication/frontiers-aug-2019/</link>
+      <pubDate>Tue, 30 Apr 2019 00:00:00 +0900</pubDate>
+      <guid>/publication/frontiers-aug-2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

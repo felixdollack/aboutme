@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>C. Imbery on Felix</title>
-    <link>https://felixdollack.github.io/aboutme/authors/c.-imbery/</link>
-    <description>Recent content in C. Imbery on Felix</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 01 Nov 2017 00:00:00 +0900</lastBuildDate>
-    
-	<atom:link href="https://felixdollack.github.io/aboutme/authors/c.-imbery/index.xml" rel="self" type="application/rss+xml" />
-    
+    <title>C. Imbery | Felix</title>
+    <link>/authors/c.-imbery/</link>
+      <atom:link href="/authors/c.-imbery/index.xml" rel="self" type="application/rss+xml" />
+    <description>C. Imbery</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2019</copyright><lastBuildDate>Wed, 01 Nov 2017 00:00:00 +0900</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>C. Imbery</title>
+      <link>/authors/c.-imbery/</link>
+    </image>
     
     <item>
       <title>On the Analysis of Acoustic Distance Perception in a Head Mounted Display</title>
-      <link>https://felixdollack.github.io/aboutme/publication/acoustic-distance-perception/</link>
+      <link>/publication/icat-nov-2017/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 +0900</pubDate>
-      
-      <guid>https://felixdollack.github.io/aboutme/publication/acoustic-distance-perception/</guid>
+      <guid>/publication/icat-nov-2017/</guid>
       <description></description>
     </item>
     

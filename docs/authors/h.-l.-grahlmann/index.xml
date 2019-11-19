@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>H.-L. Grahlmann on Felix</title>
-    <link>https://felixdollack.github.io/aboutme/authors/h.-l.-grahlmann/</link>
-    <description>Recent content in H.-L. Grahlmann on Felix</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 01 Mar 2013 00:00:00 +0900</lastBuildDate>
-    
-	<atom:link href="https://felixdollack.github.io/aboutme/authors/h.-l.-grahlmann/index.xml" rel="self" type="application/rss+xml" />
-    
+    <title>H.-L. Grahlmann | Felix</title>
+    <link>/authors/h.-l.-grahlmann/</link>
+      <atom:link href="/authors/h.-l.-grahlmann/index.xml" rel="self" type="application/rss+xml" />
+    <description>H.-L. Grahlmann</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2019</copyright><lastBuildDate>Fri, 01 Mar 2013 00:00:00 +0900</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>H.-L. Grahlmann</title>
+      <link>/authors/h.-l.-grahlmann/</link>
+    </image>
     
     <item>
       <title>Speech intelligibility in realistic listening situations for different numbers, azimuths and movement of speech or noise maskers</title>
-      <link>https://felixdollack.github.io/aboutme/publication/speech-intelligibility/</link>
+      <link>/publication/daga-march-2013/</link>
       <pubDate>Fri, 01 Mar 2013 00:00:00 +0900</pubDate>
-      
-      <guid>https://felixdollack.github.io/aboutme/publication/speech-intelligibility/</guid>
+      <guid>/publication/daga-march-2013/</guid>
       <description></description>
     </item>
     

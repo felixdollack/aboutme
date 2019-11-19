@@ -6,6 +6,7 @@ tags:
 - Interactive Gameplay
 date: "2019-04-08T00:00:00Z"
 
+# authors = [["admin", ""], ["Yuta Kozaki", ""], ["Minatsu Sugimoto", ""], ["Rina Katsube", ""], ["Ozu Takeshi", ""]]
 # Optional external URL for project (replaces project detail page).
 external_link:
 
