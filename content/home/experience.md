@@ -18,17 +18,45 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Research Assistant"
-  company = "Fraunhofer IIS"
+  title = "Research Intern"
+  company = "NTT Communication Science Laboratories - Human Information Science Laboratory"
+  company_url = "http://www.kecl.ntt.co.jp/human/index.html"
+  location = "Atsugi, Japan"
+  date_start = "2019-08-05"
+  date_end = "2020-03-19"
+  description = """
+  Responsibilities include:
+
+  * Performing experiments in the field of affective computing.
+  * Collecting and analyzing data with multimodal recording systems ([Electrooculography](https://en.wikipedia.org/wiki/Electrooculography), [Electromyography](https://en.wikipedia.org/wiki/Electromyography), [Electroencephalography](https://en.wikipedia.org/wiki/Electroencephalography), [Galvanic Skin Response](https://en.wikipedia.org/wiki/Electrodermal_activity)).
+  """
+
+[[experience]]
+  title = "Software Engineer"
+  company = "Fraunhofer Institute for Integrated Circuits (IIS)"
   company_url = "https://www.iis.fraunhofer.de/en.html"
-  location = "Germany"
+  location = "Erlangen, Germany"
   date_start = "2015-12-01"
   date_end = "2017-03-31"
   description = """
   Responsibilities include:
 
-  * Customer support
-  * Code quality assurance
-  * Bringing Bluetooth-AAC to Android
+  * Supporting customers implementing audio codecs on embedded devices.
+  * Stress testing and quality assurance of the in-house codebase.
+  * Porting Bluetooth-AAC to Android.
+  """
+
+[[experience]]
+  title = "Research Assistant"
+  company = "Fraunhofer Institute for Media Technology (IDMT) - Division Hearing, Speech and Audio Technology"
+  company_url = "https://www.idmt.fraunhofer.de/en/hsa.html"
+  location = "Oldenburg, Germany"
+  date_start = "2013-04-01"
+  date_end = "2013-07-31"
+  description = """
+  Responsibilities include:
+
+  * Implementation of sound localization algorithms in Matlab ([Generalized Cross-Correlation](https://en.wikipedia.org/wiki/Steered-Response_Power_Phase_Transform), [MUSIC](https://en.wikipedia.org/wiki/MUSIC_(algorithm))).
+  * Scientific evaluation of sound localization algorithm accuracy.
   """
 +++
