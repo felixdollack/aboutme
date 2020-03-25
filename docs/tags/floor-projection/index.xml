@@ -5,7 +5,7 @@
     <link>https://felixdollack.github.io/aboutme/tags/floor-projection/</link>
       <atom:link href="https://felixdollack.github.io/aboutme/tags/floor-projection/index.xml" rel="self" type="application/rss+xml" />
     <description>Floor projection</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2019</copyright><lastBuildDate>Mon, 08 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2020</copyright><lastBuildDate>Mon, 08 Apr 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://felixdollack.github.io/aboutme/img/icon-192.png</url>
       <title>Floor projection</title>
@@ -18,9 +18,7 @@
       <pubDate>Mon, 08 Apr 2019 00:00:00 +0000</pubDate>
       <guid>https://felixdollack.github.io/aboutme/project/elastrocade/</guid>
       <description>&lt;p&gt;We proposed a shooting game based on whole body motion. This game need 2 vs 2 players, and each team control one spaceship. the movement of one player corresponds to the spaceship movement in X direction, and the movement of another player corresponds to the movement in Y direction. This game is projected on floor and players move along the sides of projected screen. All player can shoot with jumping motion and make a shield with squat motion.&lt;/p&gt;
-
 &lt;p&gt;This system make players active as much as possible, and we want to motivate obesity children  to move their body who love to play game.&lt;/p&gt;
-
 &lt;p&gt;This project is ongoing.&lt;/p&gt;
 </description>
     </item>

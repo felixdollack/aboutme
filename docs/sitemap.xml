@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
@@ -18,12 +18,77 @@
   </url>
   
   <url>
-    <loc>https://felixdollack.github.io/aboutme/publication_types/0/</loc>
-    <lastmod>2019-06-30T00:00:00+09:00</lastmod>
+    <loc>https://felixdollack.github.io/aboutme/publication_types/1/</loc>
+    <lastmod>2019-12-01T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://felixdollack.github.io/aboutme/publication/mhs_dec_2019/</loc>
+    <lastmod>2019-12-01T00:00:00+09:00</lastmod>
   </url>
   
   <url>
     <loc>https://felixdollack.github.io/aboutme/authors/</loc>
+    <lastmod>2019-12-01T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://felixdollack.github.io/aboutme/authors/f.-dollack/</loc>
+    <lastmod>2019-12-01T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://felixdollack.github.io/aboutme/</loc>
+    <lastmod>2019-12-01T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://felixdollack.github.io/aboutme/authors/h.-kadone/</loc>
+    <lastmod>2019-12-01T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://felixdollack.github.io/aboutme/authors/k.-suzuki/</loc>
+    <lastmod>2019-12-01T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://felixdollack.github.io/aboutme/tags/localization/</loc>
+    <lastmod>2019-12-01T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://felixdollack.github.io/aboutme/tags/locomotion/</loc>
+    <lastmod>2019-12-01T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://felixdollack.github.io/aboutme/authors/m.-perusquia-hernandez/</loc>
+    <lastmod>2019-12-01T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://felixdollack.github.io/aboutme/publication_types/</loc>
+    <lastmod>2019-12-01T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://felixdollack.github.io/aboutme/publication/</loc>
+    <lastmod>2019-12-01T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://felixdollack.github.io/aboutme/tags/</loc>
+    <lastmod>2019-12-01T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://felixdollack.github.io/aboutme/tags/virtual-sound/</loc>
+    <lastmod>2019-12-01T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://felixdollack.github.io/aboutme/publication_types/0/</loc>
     <lastmod>2019-06-30T00:00:00+09:00</lastmod>
   </url>
   
@@ -33,22 +98,7 @@
   </url>
   
   <url>
-    <loc>https://felixdollack.github.io/aboutme/authors/f.-dollack/</loc>
-    <lastmod>2019-06-30T00:00:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://felixdollack.github.io/aboutme/</loc>
-    <lastmod>2019-06-30T00:00:00+09:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://felixdollack.github.io/aboutme/tags/gait/</loc>
-    <lastmod>2019-06-30T00:00:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://felixdollack.github.io/aboutme/authors/h.-kadone/</loc>
     <lastmod>2019-06-30T00:00:00+09:00</lastmod>
   </url>
   
@@ -58,38 +108,18 @@
   </url>
   
   <url>
-    <loc>https://felixdollack.github.io/aboutme/authors/k.-suzuki/</loc>
-    <lastmod>2019-06-30T00:00:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://felixdollack.github.io/aboutme/authors/m.-perusquia-hernandez/</loc>
-    <lastmod>2019-06-30T00:00:00+09:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://felixdollack.github.io/aboutme/tags/motor-planning/</loc>
-    <lastmod>2019-06-30T00:00:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://felixdollack.github.io/aboutme/publication_types/</loc>
-    <lastmod>2019-06-30T00:00:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://felixdollack.github.io/aboutme/publication/</loc>
-    <lastmod>2019-06-30T00:00:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://felixdollack.github.io/aboutme/tags/</loc>
     <lastmod>2019-06-30T00:00:00+09:00</lastmod>
   </url>
   
   <url>
     <loc>https://felixdollack.github.io/aboutme/publication/ispgr-june-2019/</loc>
     <lastmod>2019-06-29T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://felixdollack.github.io/aboutme/courses/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
@@ -135,11 +165,6 @@
   <url>
     <loc>https://felixdollack.github.io/aboutme/project/</loc>
     <lastmod>2019-04-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://felixdollack.github.io/aboutme/publication_types/1/</loc>
-    <lastmod>2017-11-01T00:00:00+09:00</lastmod>
   </url>
   
   <url>
@@ -198,10 +223,6 @@
   
   <url>
     <loc>https://felixdollack.github.io/aboutme/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://felixdollack.github.io/aboutme/courses/</loc>
   </url>
   
 </urlset>

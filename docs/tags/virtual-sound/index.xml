@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>virtual sound | Felix</title>
+    <link>https://felixdollack.github.io/aboutme/tags/virtual-sound/</link>
+      <atom:link href="https://felixdollack.github.io/aboutme/tags/virtual-sound/index.xml" rel="self" type="application/rss+xml" />
+    <description>virtual sound</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2020</copyright><lastBuildDate>Sun, 01 Dec 2019 00:00:00 +0900</lastBuildDate>
+    <image>
+      <url>https://felixdollack.github.io/aboutme/img/icon-192.png</url>
+      <title>virtual sound</title>
+      <link>https://felixdollack.github.io/aboutme/tags/virtual-sound/</link>
+    </image>
+    
+    <item>
+      <title>Auditory Locomotion Guidance System For Spatial Localization</title>
+      <link>https://felixdollack.github.io/aboutme/publication/mhs_dec_2019/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0900</pubDate>
+      <guid>https://felixdollack.github.io/aboutme/publication/mhs_dec_2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
