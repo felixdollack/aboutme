@@ -1,16 +1,29 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Floor projection | Felix</title>
-    <link>https://felixdollack.github.io/aboutme/tags/floor-projection/</link>
-      <atom:link href="https://felixdollack.github.io/aboutme/tags/floor-projection/index.xml" rel="self" type="application/rss+xml" />
-    <description>Floor projection</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2020</copyright><lastBuildDate>Mon, 08 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <title>Felix Dollack | Felix</title>
+    <link>https://felixdollack.github.io/aboutme/authors/felix-dollack/</link>
+      <atom:link href="https://felixdollack.github.io/aboutme/authors/felix-dollack/index.xml" rel="self" type="application/rss+xml" />
+    <description>Felix Dollack</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2020</copyright><lastBuildDate>Thu, 26 Mar 2020 01:24:50 +0900</lastBuildDate>
     <image>
       <url>https://felixdollack.github.io/aboutme/img/icon-192.png</url>
-      <title>Floor projection</title>
-      <link>https://felixdollack.github.io/aboutme/tags/floor-projection/</link>
+      <title>Felix Dollack</title>
+      <link>https://felixdollack.github.io/aboutme/authors/felix-dollack/</link>
     </image>
+    
+    <item>
+      <title>El Astrocade 2</title>
+      <link>https://felixdollack.github.io/aboutme/project/elastrocade2/</link>
+      <pubDate>Thu, 26 Mar 2020 01:24:50 +0900</pubDate>
+      <guid>https://felixdollack.github.io/aboutme/project/elastrocade2/</guid>
+      <description>&lt;p&gt;Description coming soon&amp;hellip;&lt;/p&gt;
+&lt;p&gt;The work was exhibited during the 5-day lasting &lt;a href=&#34;https://ars.electronica.art/outofthebox/en/&#34;&gt;Ars Electronica Festival 2019&lt;/a&gt; in Linz, Austria.
+It was well received and a magnet for young and old players.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;ars.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Project status: finished.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>El Astrocade</title>
