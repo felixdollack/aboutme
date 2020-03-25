@@ -1,6 +1,7 @@
 ---
 title: El Astrocade
 summary: A large floor projection game to promote physical movement and teamwork.
+authors: [Felix Dollack, Yuta Kozaki, Takeshi Ozu, Rina Katsube, Minatsu Sugimoto]
 tags:
 - Floor projection
 - Interactive Gameplay
@@ -8,7 +9,7 @@ date: "2019-04-08T00:00:00Z"
 
 # authors = [["admin", ""], ["Yuta Kozaki", ""], ["Minatsu Sugimoto", ""], ["Rina Katsube", ""], ["Ozu Takeshi", ""]]
 # Optional external URL for project (replaces project detail page).
-external_link:
+external_link: ""
 
 # Links (optional).
 url_pdf: /project/elastrocade/El-Astrocade.pdf
