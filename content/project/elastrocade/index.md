@@ -18,17 +18,49 @@ url_video: https://www.youtube.com/watch?v=RdcgmeO6gCI
 url_code:
 
 image:
-  caption: Finalized exhibit
+  caption: Concept image
   focal_point: Bottom
   preview_only: false
 ---
 
-We proposed a shooting game based on whole body motion. This game need 2 vs 2 players, and each team control one spaceship. the movement of one player corresponds to the spaceship movement in X direction, and the movement of another player corresponds to the movement in Y direction. This game is projected on floor and players move along the sides of projected screen. All player can shoot with jumping motion and make a shield with squat motion.
+We, the authors, proposed a shooting game based on whole body motion as part of a
+student project. Over the course of 12 months we ran through multiple iterations
+of designing the appearance and interactions within the game. The core elements
+of the finalized version are motion tracking and a helmet with haptic and visual
+feedback.
+
+First iteration of the game projection:
+![](first_iteration.jpg)
+
+The helmet (picture below) is used to present haptic feedback when the spaceships
+receive damage through lasers or by collision with asteroids. When the ship gets
+hit a LED strip below the visor flashes red. The rest of the time the LED strip
+fades from green to red to indicate the life points of the spaceship. A display
+at the front of the helmet shows the team color. Motion tracking markers on top
+of the hemet (not in the picture) are used to track the position of the players.
+
+![](head.png)
+
+The body position (x,y,z) of 2 teams with 2 players each is measured to give
+shared control over a spaceship to each team. One player of each team controls
+the X and Y direction of the ship. The players height controls the ships actions.
+At the beginning of each game the height of the players is picked up. The ship
+can shoot a laser when either of the team members jumps or activate a shield for
+defense when one player of the team squats during the game.
 
 ![](birdview.jpg)
 
-This system make players active as much as possible, and we want to motivate obesity children  to move their body who love to play game.
+This game is entirely written in C++ with [openFrameworks](https://www.openframeworks.cc)
+and was developed for the [Large Space](http://intron.kz.tsukuba.ac.jp/archives/788)
+at the University of Tsukuba. The game graphics are projected on a 5 by 5 meter
+floor area and players move along the sides of the projection.
 
 ![](final.jpg)
+
+This final system increases physical activity of all players thanks to the body
+motion control and fosters teamwork through shared control of the spaceship.
+
+The source code might be released on www.github.com/felixdollack at a later point
+after cleaning it a little.
 
 Project status: finished.
