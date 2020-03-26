@@ -21,7 +21,7 @@
   
   
 
-  <meta name="author" content="Felix Dollack">
+  <meta name="author" content="Felix Dollack, PhD">
 
   
   
@@ -350,28 +350,6 @@
         
         
         
-
-        <li class="nav-item">
-          <a class="nav-link " href="/aboutme/courses/"><span>Courses</span></a>
-        </li>
-
-        
-        
-
-        
-
-        
-        
-        
-          
-        
-
-        
-        
-        
-        
-        
-        
           
           
           
@@ -567,7 +545,7 @@
 <div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 504px;">
   <div style="position: relative">
     <img src="/aboutme/project/elastrocade/featured_hua0d4d4b24f4da3a102e4452ac738b95f_394663_720x0_resize_q90_lanczos.jpg" alt="" class="featured-image">
-    <span class="article-header-caption">Finalized exhibit</span>
+    <span class="article-header-caption">Concept image</span>
   </div>
 </div>
 
@@ -576,10 +554,36 @@
   <div class="article-container">
 
     <div class="article-style">
-      <p>We proposed a shooting game based on whole body motion. This game need 2 vs 2 players, and each team control one spaceship. the movement of one player corresponds to the spaceship movement in X direction, and the movement of another player corresponds to the movement in Y direction. This game is projected on floor and players move along the sides of projected screen. All player can shoot with jumping motion and make a shield with squat motion.</p>
+      <p>We, the authors, proposed a shooting game based on whole body motion as part of a
+student project. Over the course of 12 months we ran through multiple iterations
+of designing the appearance and interactions within the game. The core elements
+of the finalized version are motion tracking and a helmet with haptic and visual
+feedback.</p>
+<p>First iteration of the game projection:
+<img src="first_iteration.jpg" alt=""></p>
+<p>The helmet (picture below) is used to present haptic feedback when the spaceships
+receive damage through lasers or by collision with asteroids. When the ship gets
+hit a LED strip below the visor flashes red. The rest of the time the LED strip
+fades from green to red to indicate the life points of the spaceship. A display
+at the front of the helmet shows the team color. Motion tracking markers on top
+of the hemet (not in the picture) are used to track the position of the players.</p>
+<p><img src="head.png" alt=""></p>
+<p>The body position (x,y,z) of 2 teams with 2 players each is measured to give
+shared control over a spaceship to each team. One player of each team controls
+the X and Y direction of the ship. The players height controls the ships actions.
+At the beginning of each game the height of the players is picked up. The ship
+can shoot a laser when either of the team members jumps or activate a shield for
+defense when one player of the team squats during the game.</p>
 <p><img src="birdview.jpg" alt=""></p>
-<p>This system make players active as much as possible, and we want to motivate obesity children  to move their body who love to play game.</p>
+<p>This game is entirely written in C++ with <a href="https://www.openframeworks.cc">openFrameworks</a>
+and was developed for the <a href="http://intron.kz.tsukuba.ac.jp/archives/788">Large Space</a>
+at the University of Tsukuba. The game graphics are projected on a 5 by 5 meter
+floor area and players move along the sides of the projection.</p>
 <p><img src="final.jpg" alt=""></p>
+<p>This final system increases physical activity of all players thanks to the body
+motion control and fosters teamwork through shared control of the spaceship.</p>
+<p>The source code might be released on <a href="http://www.github.com/felixdollack">www.github.com/felixdollack</a> at a later point
+after cleaning it a little.</p>
 <p>Project status: finished.</p>
 
     </div>

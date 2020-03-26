@@ -17,10 +17,24 @@
       <link>https://felixdollack.github.io/aboutme/project/elastrocade2/</link>
       <pubDate>Thu, 26 Mar 2020 01:24:50 +0900</pubDate>
       <guid>https://felixdollack.github.io/aboutme/project/elastrocade2/</guid>
-      <description>&lt;p&gt;Description coming soon&amp;hellip;&lt;/p&gt;
-&lt;p&gt;The work was exhibited during the 5-day lasting &lt;a href=&#34;https://ars.electronica.art/outofthebox/en/&#34;&gt;Ars Electronica Festival 2019&lt;/a&gt; in Linz, Austria.
-It was well received and a magnet for young and old players.&lt;/p&gt;
+      <description>&lt;p&gt;The original version of &lt;a href=&#34;../elastrocade/&#34;&gt;El Astrocade&lt;/a&gt; was limited due to hardware
+necessities. For better portability El Astrocade 2 was an attempt to minify the
+original game while keeping most of the control aspects the same.&lt;/p&gt;
+&lt;p&gt;An aluminum frame box with a acrylic display used to project the game from below
+was created. The final length of each side of the table was too short to make
+players walk. Therefore, we opted for balance control using WiiFit balance boards.
+Shifting weight to the left or right side controlled the movement of the spaceship.
+Leaning backward on the balance board triggered the shield for defense against damage.&lt;/p&gt;
+&lt;p&gt;The balance board has a weight limit, so we had to rethink the jump action to
+trigger shooting. We decided to build very soft buttons to trigger a shot.
+The buttons sense touch by infrared light refraction measured with custom PCB boards
+on the inside. Every touch was reflected with a light animation inside the button.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;ars.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;The work was exhibited during the 5-day lasting &lt;a href=&#34;https://ars.electronica.art/outofthebox/en/&#34;&gt;Ars Electronica Festival 2019&lt;/a&gt;
+in Linz, Austria. It was well received and a magnet for approximately 1000
+visitors a day. The total down-time during the exhibition was less than 5 minutes.&lt;/p&gt;
+&lt;p&gt;The source code might be released on &lt;a href=&#34;http://www.github.com/felixdollack&#34;&gt;www.github.com/felixdollack&lt;/a&gt; at a later point
+after cleaning it a little.&lt;/p&gt;
 &lt;p&gt;Project status: finished.&lt;/p&gt;
 </description>
     </item>
@@ -30,10 +44,36 @@ It was well received and a magnet for young and old players.&lt;/p&gt;
       <link>https://felixdollack.github.io/aboutme/project/elastrocade/</link>
       <pubDate>Mon, 08 Apr 2019 00:00:00 +0000</pubDate>
       <guid>https://felixdollack.github.io/aboutme/project/elastrocade/</guid>
-      <description>&lt;p&gt;We proposed a shooting game based on whole body motion. This game need 2 vs 2 players, and each team control one spaceship. the movement of one player corresponds to the spaceship movement in X direction, and the movement of another player corresponds to the movement in Y direction. This game is projected on floor and players move along the sides of projected screen. All player can shoot with jumping motion and make a shield with squat motion.&lt;/p&gt;
+      <description>&lt;p&gt;We, the authors, proposed a shooting game based on whole body motion as part of a
+student project. Over the course of 12 months we ran through multiple iterations
+of designing the appearance and interactions within the game. The core elements
+of the finalized version are motion tracking and a helmet with haptic and visual
+feedback.&lt;/p&gt;
+&lt;p&gt;First iteration of the game projection:
+&lt;img src=&#34;first_iteration.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;The helmet (picture below) is used to present haptic feedback when the spaceships
+receive damage through lasers or by collision with asteroids. When the ship gets
+hit a LED strip below the visor flashes red. The rest of the time the LED strip
+fades from green to red to indicate the life points of the spaceship. A display
+at the front of the helmet shows the team color. Motion tracking markers on top
+of the hemet (not in the picture) are used to track the position of the players.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;head.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;The body position (x,y,z) of 2 teams with 2 players each is measured to give
+shared control over a spaceship to each team. One player of each team controls
+the X and Y direction of the ship. The players height controls the ships actions.
+At the beginning of each game the height of the players is picked up. The ship
+can shoot a laser when either of the team members jumps or activate a shield for
+defense when one player of the team squats during the game.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;birdview.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;This system make players active as much as possible, and we want to motivate obesity children  to move their body who love to play game.&lt;/p&gt;
+&lt;p&gt;This game is entirely written in C++ with &lt;a href=&#34;https://www.openframeworks.cc&#34;&gt;openFrameworks&lt;/a&gt;
+and was developed for the &lt;a href=&#34;http://intron.kz.tsukuba.ac.jp/archives/788&#34;&gt;Large Space&lt;/a&gt;
+at the University of Tsukuba. The game graphics are projected on a 5 by 5 meter
+floor area and players move along the sides of the projection.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;final.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;This final system increases physical activity of all players thanks to the body
+motion control and fosters teamwork through shared control of the spaceship.&lt;/p&gt;
+&lt;p&gt;The source code might be released on &lt;a href=&#34;http://www.github.com/felixdollack&#34;&gt;www.github.com/felixdollack&lt;/a&gt; at a later point
+after cleaning it a little.&lt;/p&gt;
 &lt;p&gt;Project status: finished.&lt;/p&gt;
 </description>
     </item>
