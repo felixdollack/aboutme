@@ -1,6 +1,6 @@
 +++
 # Display name
-name = "Felix Dollack"
+name = "Felix Dollack, PhD"
 
 # Username (this should match the folder name)
 authors = ["admin"]
@@ -9,20 +9,21 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "PhD of Human Informatics"
+role = "Human Informatics"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "University of Tsukuba", url = "https://www.tsukuba.ac.jp/en/" } ]
+organizations = [] #{ name = "University of Tsukuba", url = "https://www.tsukuba.ac.jp/en/" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research interests include multimodal human sensing, affective computing and artificial intelligence."
+bio = "My research interests include interactive projection mapping, multimodal human sensing, affective computing and artificial intelligence."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = ""
 
 # List (academic) interests or hobbies
 interests = [
+  "Interactive projection mapping installations",
   "Generative and Explainable Artificial Intelligence",
   "Affective Computing",
   "Human Computer Interaction"
@@ -77,4 +78,4 @@ user_groups = ["Researchers"]
 
 +++
 
-Felix Dollack is interested in generative and explainable artificial intelligence, affective computing and human-computer interaction. He obtained a PhD in human informatics at the University of Tsukuba and received BEng and MSc degrees in hearing technology and audiology from Jade University of applied sciences and the University of Oldenburg in Germany.
+Felix Dollack is interested in generative and explainable artificial intelligence, affective computing, human-computer interaction and interactive projection mapping. He obtained a PhD in human informatics at the University of Tsukuba and received BEng and MSc degrees in hearing technology and audiology from Jade University of applied sciences and the University of Oldenburg in Germany.
