@@ -2,8 +2,8 @@
   "name": "Felix",
   "short_name": "Felix",
   "lang": "en-us",
-  "theme_color": "#2962ff",
-  "background_color": "#2962ff",
+  "theme_color": "#0395DE",
+  "background_color": "#0395DE",
   "icons": [{
     "src": "img/icon-192.png",
     "sizes": "192x192",
