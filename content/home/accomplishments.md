@@ -26,7 +26,13 @@ date_format = "Jan 2006"
   certificate_url = "https://confirm.udacity.com/RHALE367"
   date_start = "2018-10-07"
   date_end = "2019-03-12"
-  description = ""
+  description = """
+  * Predicting time series with neural networks.
+  * Transfer learning with convolutional neural networks for object recognition.
+  * Recurrent neural networks for text generation.
+  * General Adversarial Networks for generation of human faces.
+  * Deploying a sentiment analysis model to Amazon Web Services (Cloud computing).
+  """
 
 [[item]]
   organization = "Udacity"
@@ -36,6 +42,10 @@ date_format = "Jan 2006"
   certificate_url = "https://confirm.udacity.com/CGCKCGHD"
   date_start = "2018-07-18"
   date_end = "2018-10-23"
-  description = ""
+  description = """
+  * Forward planning agents.
+  * Adversarial game playing agents.
+  * Sudoku solver.
+  """
 
 +++
