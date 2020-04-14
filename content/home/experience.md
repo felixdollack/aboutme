@@ -19,7 +19,8 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Research Intern"
-  company = "NTT Communication Science Laboratories - Human Information Science Laboratory"
+  company = "NTT Communication Science Laboratories"
+  # <!--  - Human Information Science Laboratory -->
   company_url = "http://www.kecl.ntt.co.jp/human/index.html"
   location = "Atsugi, Japan"
   date_start = "2019-08-05"
@@ -48,7 +49,8 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Research Assistant"
-  company = "Fraunhofer Institute for Media Technology (IDMT) - Division Hearing, Speech and Audio Technology"
+  company = "Fraunhofer Institute for Media Technology (IDMT)"
+  # <!--  - Division Hearing, Speech and Audio Technology -->
   company_url = "https://www.idmt.fraunhofer.de/en/hsa.html"
   location = "Oldenburg, Germany"
   date_start = "2013-04-01"
