@@ -78,4 +78,4 @@ user_groups = ["Researchers"]
 
 +++
 
-Felix Dollack is interested in generative and explainable artificial intelligence, affective computing, human-computer interaction and interactive projection mapping. He obtained a PhD in human informatics at the University of Tsukuba and received BEng and MSc degrees in hearing technology and audiology from Jade University of applied sciences and the University of Oldenburg in Germany.
+Felix Dollack is interested in generative and explainable artificial intelligence, affective computing, human-computer interaction and ubiquitous computing. He obtained a PhD in Human Informatics at the University of Tsukuba and received BEng and MSc degrees in Hearing Technology and Audiology from Jade University of Applied Sciences and the University of Oldenburg in Germany.
