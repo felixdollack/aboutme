@@ -16,17 +16,17 @@ role = "Human Informatics"
 organizations = [] #{ name = "University of Tsukuba", url = "https://www.tsukuba.ac.jp/en/" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research interests include interactive projection mapping, multimodal human sensing, affective computing and artificial intelligence."
+bio = "My research interests include multimodal human sensing, affective computing and generative and explainable artificial intelligence."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = ""
 
 # List (academic) interests or hobbies
 interests = [
-  "Interactive projection mapping installations",
   "Generative and Explainable Artificial Intelligence",
   "Affective Computing",
-  "Human Computer Interaction"
+  "Human Computer Interaction",
+  "Perception"
 ]
 
 # Organizational groups that you belong to (for People widget)
