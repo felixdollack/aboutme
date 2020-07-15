@@ -28,8 +28,8 @@ date_format = "Jan 2006"
   description = """
   Responsibilities include:
 
-  * Performing experiments in the field of affective computing.
-  * Collecting and analyzing data with multimodal recording systems ([Electrooculography](https://en.wikipedia.org/wiki/Electrooculography), [Electromyography](https://en.wikipedia.org/wiki/Electromyography), [Electroencephalography](https://en.wikipedia.org/wiki/Electroencephalography), [Galvanic Skin Response](https://en.wikipedia.org/wiki/Electrodermal_activity)).
+  * Implementation of experiments in the field of affective computing.
+  * Collection and data analysis with multimodal recording systems ([Electrooculography](https://en.wikipedia.org/wiki/Electrooculography), [Electromyography](https://en.wikipedia.org/wiki/Electromyography), [Electroencephalography](https://en.wikipedia.org/wiki/Electroencephalography), [Galvanic Skin Response](https://en.wikipedia.org/wiki/Electrodermal_activity)).
   """
 
 [[experience]]
@@ -42,9 +42,9 @@ date_format = "Jan 2006"
   description = """
   Responsibilities include:
 
-  * Supporting customers implementing audio codecs on embedded devices.
-  * Stress testing and quality assurance of the in-house codebase.
-  * Porting Bluetooth-AAC to Android.
+  * Support customers at implementation of audio codecs on embedded devices.
+  * Stress test and quality assurance of the in-house codebase.
+  * Port Bluetooth-AAC to Android.
   """
 
 [[experience]]
