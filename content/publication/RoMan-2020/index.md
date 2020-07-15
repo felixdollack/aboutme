@@ -1,6 +1,6 @@
 +++
 title = "Robot Mirroring: Promoting Empathy with an Artificial Agent by Reflecting the User's Physiological Affective States"
-date = 2021-04-30T00:00:00
+date = 2020-07-13T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["M. Perusquia-Hernandez", "D. A. Gomez Jauregui", "M. Cuberos-Balda", "D. F. Paez-Granados", "F. Dollack", "J. V. Salazar"]
