@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>D. F. Paez-Granados | Felix</title>
+    <link>https://felixdollack.github.io/aboutme/authors/d.-f.-paez-granados/</link>
+      <atom:link href="https://felixdollack.github.io/aboutme/authors/d.-f.-paez-granados/index.xml" rel="self" type="application/rss+xml" />
+    <description>D. F. Paez-Granados</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2020</copyright><lastBuildDate>Mon, 13 Jul 2020 00:00:00 +0900</lastBuildDate>
+    <image>
+      <url>https://felixdollack.github.io/aboutme/img/icon-192.png</url>
+      <title>D. F. Paez-Granados</title>
+      <link>https://felixdollack.github.io/aboutme/authors/d.-f.-paez-granados/</link>
+    </image>
+    
+    <item>
+      <title>Robot Mirroring: Promoting Empathy with an Artificial Agent by Reflecting the User&#39;s Physiological Affective States</title>
+      <link>https://felixdollack.github.io/aboutme/publication/roman-2020/</link>
+      <pubDate>Mon, 13 Jul 2020 00:00:00 +0900</pubDate>
+      <guid>https://felixdollack.github.io/aboutme/publication/roman-2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
