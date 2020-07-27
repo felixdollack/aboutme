@@ -65,6 +65,11 @@ user_groups = ["Researchers"]
 #  link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
 
 [[social]]
+  icon = "researchgate"
+  icon_pack = "fab"
+  link = "https://www.researchgate.net/profile/Felix_Dollack"
+
+[[social]]
   icon = "github"
   icon_pack = "fab"
   link = "https://github.com/felixdollack"

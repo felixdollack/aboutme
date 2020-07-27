@@ -114,7 +114,8 @@ contact_links = [
   {icon = "twitter", icon_pack = "fab", name = "Twitter", link = "https://twitter.com/febendo"},
   #{icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
   #{icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
-  ]
+  {icon = "researchgate", icon_pack = "fab", name="Researchgate", link = "https://www.researchgate.net/profile/Felix_Dollack"}
+]
 
 ############################
 ## Social
