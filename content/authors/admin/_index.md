@@ -83,4 +83,4 @@ user_groups = ["Researchers"]
 
 +++
 
-Felix Dollack is interested in generative and explainable artificial intelligence, affective computing, human-computer interaction and ubiquitous computing. He obtained a PhD in Human Informatics at the University of Tsukuba and received BEng and MSc degrees in Hearing Technology and Audiology from Jade University of Applied Sciences and the University of Oldenburg in Germany.
+My interests lie with (animal, artificial, hybrid, human) intelligence, affective computing and human-computer interaction. I got my PhD in the field of Human Informatics at the University of Tsukuba (Japan) and received BEng and MSc degrees in Hearing Technology and Audiology from Jade University of Applied Sciences Oldenburg and the University of Oldenburg (Germany).
