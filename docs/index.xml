@@ -5,7 +5,7 @@
     <link>https://felixdollack.github.io/aboutme/</link>
       <atom:link href="https://felixdollack.github.io/aboutme/index.xml" rel="self" type="application/rss+xml" />
     <description>Felix</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2020</copyright><lastBuildDate>Mon, 13 Jul 2020 00:00:00 +0900</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2020</copyright><lastBuildDate>Sun, 02 Aug 2020 13:45:04 +0900</lastBuildDate>
     <image>
       <url>https://felixdollack.github.io/aboutme/img/icon-192.png</url>
       <title>Felix</title>
@@ -55,9 +55,17 @@
     </item>
     
     <item>
+      <title>Robot Mirroring</title>
+      <link>https://felixdollack.github.io/aboutme/project/robotmirroring/</link>
+      <pubDate>Sun, 02 Aug 2020 13:45:04 +0900</pubDate>
+      <guid>https://felixdollack.github.io/aboutme/project/robotmirroring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Robot Mirroring: Promoting Empathy with an Artificial Agent by Reflecting the User&#39;s Physiological Affective States</title>
       <link>https://felixdollack.github.io/aboutme/publication/roman-2020/</link>
-      <pubDate>Mon, 13 Jul 2020 00:00:00 +0900</pubDate>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0900</pubDate>
       <guid>https://felixdollack.github.io/aboutme/publication/roman-2020/</guid>
       <description></description>
     </item>
