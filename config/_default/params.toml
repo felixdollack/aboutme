@@ -90,11 +90,11 @@ email = "felix.dollack@googelmail.com"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street="University of Tsukuba", city="Tsukuba", region="Ibaraki", postcode="305-0871", country="Japan", country-code="JP"}
+address = {street="Smart Care Tech", city="Minato City", region="Tokyo", postcode="106-0041", country="Japan", country-code="JP"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "36.1095", longitude = "140.0999"}
+coordinates = {latitude = "35.658330", longitude = "139.741460"}
 
 # Directions for visitors to locate you.
 directions = ""
