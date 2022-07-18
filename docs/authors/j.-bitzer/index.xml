@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>J. Bitzer, | Felix</title>
+    <title>J. Bitzer | Felix</title>
     <link>https://felixdollack.github.io/aboutme/authors/j.-bitzer/</link>
       <atom:link href="https://felixdollack.github.io/aboutme/authors/j.-bitzer/index.xml" rel="self" type="application/rss+xml" />
-    <description>J. Bitzer,</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2020</copyright><lastBuildDate>Wed, 01 Nov 2017 00:00:00 +0900</lastBuildDate>
+    <description>J. Bitzer</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Nov 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://felixdollack.github.io/aboutme/img/icon-192.png</url>
-      <title>J. Bitzer,</title>
+      <url>https://felixdollack.github.io/aboutme/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>J. Bitzer</title>
       <link>https://felixdollack.github.io/aboutme/authors/j.-bitzer/</link>
     </image>
     
     <item>
       <title>On the Analysis of Acoustic Distance Perception in a Head Mounted Display</title>
       <link>https://felixdollack.github.io/aboutme/publication/icat-nov-2017/</link>
-      <pubDate>Wed, 01 Nov 2017 00:00:00 +0900</pubDate>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
       <guid>https://felixdollack.github.io/aboutme/publication/icat-nov-2017/</guid>
       <description></description>
     </item>

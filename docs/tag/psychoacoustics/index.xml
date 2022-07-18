@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>psychoacoustics | Felix</title>
+    <link>https://felixdollack.github.io/aboutme/tag/psychoacoustics/</link>
+      <atom:link href="https://felixdollack.github.io/aboutme/tag/psychoacoustics/index.xml" rel="self" type="application/rss+xml" />
+    <description>psychoacoustics</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 30 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://felixdollack.github.io/aboutme/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>psychoacoustics</title>
+      <link>https://felixdollack.github.io/aboutme/tag/psychoacoustics/</link>
+    </image>
+    
+    <item>
+      <title>Gaze and head anticipation during locomotion with auditory instruction in the presence and absence of visual input</title>
+      <link>https://felixdollack.github.io/aboutme/publication/frontiers-aug-2019/</link>
+      <pubDate>Tue, 30 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://felixdollack.github.io/aboutme/publication/frontiers-aug-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Analysis of Acoustic Distance Perception in a Head Mounted Display</title>
+      <link>https://felixdollack.github.io/aboutme/publication/icat-nov-2017/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>https://felixdollack.github.io/aboutme/publication/icat-nov-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Speech intelligibility in realistic listening situations for different numbers, azimuths and movement of speech or noise maskers</title>
+      <link>https://felixdollack.github.io/aboutme/publication/daga-march-2013/</link>
+      <pubDate>Fri, 01 Mar 2013 00:00:00 +0000</pubDate>
+      <guid>https://felixdollack.github.io/aboutme/publication/daga-march-2013/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

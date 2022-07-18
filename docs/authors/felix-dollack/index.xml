@@ -5,9 +5,9 @@
     <link>https://felixdollack.github.io/aboutme/authors/felix-dollack/</link>
       <atom:link href="https://felixdollack.github.io/aboutme/authors/felix-dollack/index.xml" rel="self" type="application/rss+xml" />
     <description>Felix Dollack</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2020</copyright><lastBuildDate>Thu, 26 Mar 2020 01:24:50 +0900</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 26 Mar 2020 01:24:50 +0900</lastBuildDate>
     <image>
-      <url>https://felixdollack.github.io/aboutme/img/icon-192.png</url>
+      <url>https://felixdollack.github.io/aboutme/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Felix Dollack</title>
       <link>https://felixdollack.github.io/aboutme/authors/felix-dollack/</link>
     </image>
@@ -29,11 +29,38 @@ Leaning backward on the balance board triggered the shield for defense against d
 trigger shooting. We decided to build very soft buttons to trigger a shot.
 The buttons sense touch by infrared light refraction measured with custom PCB boards
 on the inside. Every touch was reflected with a light animation inside the button.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;ars.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;The work was exhibited during the 5-day lasting &lt;a href=&#34;https://ars.electronica.art/outofthebox/en/&#34;&gt;Ars Electronica Festival 2019&lt;/a&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /aboutme/project/elastrocade2/ars_hudd6bf9730712fd75d1255d1d43da5a2f_1024687_bc929408e74cf736f3beaa15b85e6128.webp 400w,
+               /aboutme/project/elastrocade2/ars_hudd6bf9730712fd75d1255d1d43da5a2f_1024687_c5113da2dc49e42aab3f4bb8c34ac6db.webp 760w,
+               /aboutme/project/elastrocade2/ars_hudd6bf9730712fd75d1255d1d43da5a2f_1024687_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://felixdollack.github.io/aboutme/aboutme/project/elastrocade2/ars_hudd6bf9730712fd75d1255d1d43da5a2f_1024687_bc929408e74cf736f3beaa15b85e6128.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;570&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;The work was exhibited during the 5-day lasting &lt;a href=&#34;https://ars.electronica.art/outofthebox/en/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ars Electronica Festival 2019&lt;/a&gt;
 in Linz, Austria. It was well received and a magnet for approximately 1000
 visitors a day. The total down-time during the exhibition was less than 5 minutes.&lt;/p&gt;
-&lt;p&gt;The source code might be released on &lt;a href=&#34;http://www.github.com/felixdollack&#34;&gt;www.github.com/felixdollack&lt;/a&gt; at a later point
+&lt;p&gt;The source code might be released on &lt;a href=&#34;https://www.github.com/felixdollack&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;www.github.com/felixdollack&lt;/a&gt; at a later point
 after cleaning it a little.&lt;/p&gt;
 &lt;p&gt;Project status: finished.&lt;/p&gt;
 </description>
@@ -50,29 +77,137 @@ of designing the appearance and interactions within the game. The core elements
 of the finalized version are motion tracking and a helmet with haptic and visual
 feedback.&lt;/p&gt;
 &lt;p&gt;First iteration of the game projection:
-&lt;img src=&#34;first_iteration.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /aboutme/project/elastrocade/first_iteration_hueec38988181bb29c8c046ae8e8eb646e_122240_c21ec3e51425fc514c87e02d5a7cb169.webp 400w,
+               /aboutme/project/elastrocade/first_iteration_hueec38988181bb29c8c046ae8e8eb646e_122240_99d06c4180b064604bd79adca5c035c7.webp 760w,
+               /aboutme/project/elastrocade/first_iteration_hueec38988181bb29c8c046ae8e8eb646e_122240_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://felixdollack.github.io/aboutme/aboutme/project/elastrocade/first_iteration_hueec38988181bb29c8c046ae8e8eb646e_122240_c21ec3e51425fc514c87e02d5a7cb169.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
 &lt;p&gt;The helmet (picture below) is used to present haptic feedback when the spaceships
 receive damage through lasers or by collision with asteroids. When the ship gets
 hit a LED strip below the visor flashes red. The rest of the time the LED strip
 fades from green to red to indicate the life points of the spaceship. A display
 at the front of the helmet shows the team color. Motion tracking markers on top
 of the hemet (not in the picture) are used to track the position of the players.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;head.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /aboutme/project/elastrocade/head_huad714a26dce904f6169ae55fc1308045_615690_5fc5a0abfa62da2d26b39135f590e33f.webp 400w,
+               /aboutme/project/elastrocade/head_huad714a26dce904f6169ae55fc1308045_615690_f63a50aace4399326b2c8adeb30fe68d.webp 760w,
+               /aboutme/project/elastrocade/head_huad714a26dce904f6169ae55fc1308045_615690_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://felixdollack.github.io/aboutme/aboutme/project/elastrocade/head_huad714a26dce904f6169ae55fc1308045_615690_5fc5a0abfa62da2d26b39135f590e33f.webp&#34;
+               width=&#34;468&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
 &lt;p&gt;The body position (x,y,z) of 2 teams with 2 players each is measured to give
 shared control over a spaceship to each team. One player of each team controls
 the X and Y direction of the ship. The players height controls the ships actions.
 At the beginning of each game the height of the players is picked up. The ship
 can shoot a laser when either of the team members jumps or activate a shield for
 defense when one player of the team squats during the game.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;birdview.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;This game is entirely written in C++ with &lt;a href=&#34;https://www.openframeworks.cc&#34;&gt;openFrameworks&lt;/a&gt;
-and was developed for the &lt;a href=&#34;http://intron.kz.tsukuba.ac.jp/archives/788&#34;&gt;Large Space&lt;/a&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /aboutme/project/elastrocade/birdview_hufdd48ae9ccda7a0e722c229d621f590f_165686_5115d2ec33d7686c79be073e338e309f.webp 400w,
+               /aboutme/project/elastrocade/birdview_hufdd48ae9ccda7a0e722c229d621f590f_165686_81fabbdc38a2121e8bc0de1a11ef1f12.webp 760w,
+               /aboutme/project/elastrocade/birdview_hufdd48ae9ccda7a0e722c229d621f590f_165686_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://felixdollack.github.io/aboutme/aboutme/project/elastrocade/birdview_hufdd48ae9ccda7a0e722c229d621f590f_165686_5115d2ec33d7686c79be073e338e309f.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;519&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;This game is entirely written in C++ with &lt;a href=&#34;https://www.openframeworks.cc&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;openFrameworks&lt;/a&gt;
+and was developed for the &lt;a href=&#34;http://intron.kz.tsukuba.ac.jp/archives/788&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Large Space&lt;/a&gt;
 at the University of Tsukuba. The game graphics are projected on a 5 by 5 meter
 floor area and players move along the sides of the projection.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;final.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /aboutme/project/elastrocade/final_huee9d7e458aae3ea1783a1ef94742059c_566910_3e939a9948654644ed0c421306dfc35a.webp 400w,
+               /aboutme/project/elastrocade/final_huee9d7e458aae3ea1783a1ef94742059c_566910_db031b918994cc996cc80f43bbf1eac8.webp 760w,
+               /aboutme/project/elastrocade/final_huee9d7e458aae3ea1783a1ef94742059c_566910_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://felixdollack.github.io/aboutme/aboutme/project/elastrocade/final_huee9d7e458aae3ea1783a1ef94742059c_566910_3e939a9948654644ed0c421306dfc35a.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;570&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
 &lt;p&gt;This final system increases physical activity of all players thanks to the body
 motion control and fosters teamwork through shared control of the spaceship.&lt;/p&gt;
-&lt;p&gt;The source code might be released on &lt;a href=&#34;http://www.github.com/felixdollack&#34;&gt;www.github.com/felixdollack&lt;/a&gt; at a later point
+&lt;p&gt;The source code might be released on &lt;a href=&#34;https://www.github.com/felixdollack&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;www.github.com/felixdollack&lt;/a&gt; at a later point
 after cleaning it a little.&lt;/p&gt;
 &lt;p&gt;Project status: finished.&lt;/p&gt;
 </description>

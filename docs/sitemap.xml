@@ -1,298 +1,187 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
   
   <url>
-    <loc>https://felixdollack.github.io/aboutme/courses/example/example1/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url>
-  
+    <loc>https://felixdollack.github.io/aboutme/courses/example/example1/</loc><lastmod>2019-05-05T00:00:00+01:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://felixdollack.github.io/aboutme/courses/example/</loc>
-    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc>https://felixdollack.github.io/aboutme/courses/example/</loc><lastmod>2018-09-09T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://felixdollack.github.io/aboutme/courses/example/example2/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url>
-  
+    <loc>https://felixdollack.github.io/aboutme/courses/example/example2/</loc><lastmod>2019-05-05T00:00:00+01:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://felixdollack.github.io/aboutme/tags/affective-computing/</loc>
-    <lastmod>2020-08-02T13:45:04+09:00</lastmod>
-  </url>
-  
+    <loc>https://felixdollack.github.io/aboutme/talk/example-talk/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://felixdollack.github.io/aboutme/</loc>
-    <lastmod>2020-08-02T13:45:04+09:00</lastmod>
-  </url>
-  
+    <loc>https://felixdollack.github.io/aboutme/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://felixdollack.github.io/aboutme/project/</loc>
-    <lastmod>2020-08-02T13:45:04+09:00</lastmod>
-  </url>
-  
+    <loc>https://felixdollack.github.io/aboutme/event/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://felixdollack.github.io/aboutme/project/robotmirroring/</loc>
-    <lastmod>2020-08-02T13:45:04+09:00</lastmod>
-  </url>
-  
+    <loc>https://felixdollack.github.io/aboutme/publication-type/1/</loc><lastmod>2021-04-30T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://felixdollack.github.io/aboutme/tags/</loc>
-    <lastmod>2020-08-02T13:45:04+09:00</lastmod>
-  </url>
-  
+    <loc>https://felixdollack.github.io/aboutme/tag/action-units/</loc><lastmod>2021-04-30T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://felixdollack.github.io/aboutme/publication_types/1/</loc>
-    <lastmod>2020-08-01T00:00:00+09:00</lastmod>
-  </url>
-  
+    <loc>https://felixdollack.github.io/aboutme/authors/</loc><lastmod>2021-04-30T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://felixdollack.github.io/aboutme/authors/</loc>
-    <lastmod>2020-08-01T00:00:00+09:00</lastmod>
-  </url>
-  
+    <loc>https://felixdollack.github.io/aboutme/authors/c.-k.-tan/</loc><lastmod>2021-04-30T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://felixdollack.github.io/aboutme/tags/biosignals/</loc>
-    <lastmod>2020-08-01T00:00:00+09:00</lastmod>
-  </url>
-  
+    <loc>https://felixdollack.github.io/aboutme/tag/computer-vision/</loc><lastmod>2021-04-30T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://felixdollack.github.io/aboutme/authors/d.-a.-gomez-jauregui/</loc>
-    <lastmod>2020-08-01T00:00:00+09:00</lastmod>
-  </url>
-  
+    <loc>https://felixdollack.github.io/aboutme/authors/f.-dollack/</loc><lastmod>2021-04-30T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://felixdollack.github.io/aboutme/authors/d.-f.-paez-granados/</loc>
-    <lastmod>2020-08-01T00:00:00+09:00</lastmod>
-  </url>
-  
+    <loc>https://felixdollack.github.io/aboutme/tag/facial-emg/</loc><lastmod>2021-04-30T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://felixdollack.github.io/aboutme/authors/f.-dollack/</loc>
-    <lastmod>2020-08-01T00:00:00+09:00</lastmod>
-  </url>
-  
+    <loc>https://felixdollack.github.io/aboutme/publication/icmi-2020/</loc><lastmod>2021-04-30T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://felixdollack.github.io/aboutme/authors/j.-v.-salazar/</loc>
-    <lastmod>2020-08-01T00:00:00+09:00</lastmod>
-  </url>
-  
+    <loc>https://felixdollack.github.io/aboutme/tag/ica/</loc><lastmod>2021-04-30T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://felixdollack.github.io/aboutme/authors/m.-cuberos-balda/</loc>
-    <lastmod>2020-08-01T00:00:00+09:00</lastmod>
-  </url>
-  
+    <loc>https://felixdollack.github.io/aboutme/authors/k.-suzuki/</loc><lastmod>2021-04-30T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://felixdollack.github.io/aboutme/authors/m.-perusquia-hernandez/</loc>
-    <lastmod>2020-08-01T00:00:00+09:00</lastmod>
-  </url>
-  
+    <loc>https://felixdollack.github.io/aboutme/authors/m.-perusquia-hernandez/</loc><lastmod>2021-04-30T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://felixdollack.github.io/aboutme/publication_types/</loc>
-    <lastmod>2020-08-01T00:00:00+09:00</lastmod>
-  </url>
-  
+    <loc>https://felixdollack.github.io/aboutme/tag/nnmf/</loc><lastmod>2021-04-30T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://felixdollack.github.io/aboutme/publication/</loc>
-    <lastmod>2020-08-01T00:00:00+09:00</lastmod>
-  </url>
-  
+    <loc>https://felixdollack.github.io/aboutme/publication_types/</loc><lastmod>2021-04-30T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://felixdollack.github.io/aboutme/publication/roman-2020/</loc>
-    <lastmod>2020-08-01T00:00:00+09:00</lastmod>
-  </url>
-  
+    <loc>https://felixdollack.github.io/aboutme/publication/</loc><lastmod>2021-04-30T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://felixdollack.github.io/aboutme/project/elastrocade2/</loc>
-    <lastmod>2020-03-26T01:24:50+09:00</lastmod>
-  </url>
-  
+    <loc>https://felixdollack.github.io/aboutme/authors/s.-ayabe-kanamura/</loc><lastmod>2021-04-30T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://felixdollack.github.io/aboutme/authors/felix-dollack/</loc>
-    <lastmod>2020-03-26T01:24:50+09:00</lastmod>
-  </url>
-  
+    <loc>https://felixdollack.github.io/aboutme/tags/</loc><lastmod>2021-04-30T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://felixdollack.github.io/aboutme/tags/interactive-gameplay/</loc>
-    <lastmod>2020-03-26T01:24:50+09:00</lastmod>
-  </url>
-  
+    <loc>https://felixdollack.github.io/aboutme/publication-type/0/</loc><lastmod>2021-04-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://felixdollack.github.io/aboutme/authors/rina-katsube/</loc>
-    <lastmod>2020-03-26T01:24:50+09:00</lastmod>
-  </url>
-  
+    <loc>https://felixdollack.github.io/aboutme/tag/affective-computing/</loc><lastmod>2021-04-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://felixdollack.github.io/aboutme/authors/takeshi-ozu/</loc>
-    <lastmod>2020-03-26T01:24:50+09:00</lastmod>
-  </url>
-  
+    <loc>https://felixdollack.github.io/aboutme/tag/blindness/</loc><lastmod>2021-04-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://felixdollack.github.io/aboutme/authors/yuta-kozaki/</loc>
-    <lastmod>2020-03-26T01:24:50+09:00</lastmod>
-  </url>
-  
+    <loc>https://felixdollack.github.io/aboutme/tag/duchenne-marker/</loc><lastmod>2021-04-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://felixdollack.github.io/aboutme/publication/mhs_dec_2019/</loc>
-    <lastmod>2019-12-01T00:00:00+09:00</lastmod>
-  </url>
-  
+    <loc>https://felixdollack.github.io/aboutme/tag/emg/</loc><lastmod>2021-04-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://felixdollack.github.io/aboutme/authors/h.-kadone/</loc>
-    <lastmod>2019-12-01T00:00:00+09:00</lastmod>
-  </url>
-  
+    <loc>https://felixdollack.github.io/aboutme/publication/sas-2021a/</loc><lastmod>2021-04-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://felixdollack.github.io/aboutme/authors/k.-suzuki/</loc>
-    <lastmod>2019-12-01T00:00:00+09:00</lastmod>
-  </url>
-  
+    <loc>https://felixdollack.github.io/aboutme/tag/facs/</loc><lastmod>2021-04-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://felixdollack.github.io/aboutme/tags/localization/</loc>
-    <lastmod>2019-12-01T00:00:00+09:00</lastmod>
-  </url>
-  
+    <loc>https://felixdollack.github.io/aboutme/authors/k.suzuki/</loc><lastmod>2021-04-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://felixdollack.github.io/aboutme/tags/locomotion/</loc>
-    <lastmod>2019-12-01T00:00:00+09:00</lastmod>
-  </url>
-  
+    <loc>https://felixdollack.github.io/aboutme/tag/mimicry/</loc><lastmod>2021-04-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://felixdollack.github.io/aboutme/tags/virtual-sound/</loc>
-    <lastmod>2019-12-01T00:00:00+09:00</lastmod>
-  </url>
-  
+    <loc>https://felixdollack.github.io/aboutme/tag/posed-smiles/</loc><lastmod>2021-04-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://felixdollack.github.io/aboutme/publication_types/0/</loc>
-    <lastmod>2019-06-30T00:00:00+09:00</lastmod>
-  </url>
-  
+    <loc>https://felixdollack.github.io/aboutme/tag/production/</loc><lastmod>2021-04-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://felixdollack.github.io/aboutme/tags/eye-movement/</loc>
-    <lastmod>2019-06-30T00:00:00+09:00</lastmod>
-  </url>
-  
+    <loc>https://felixdollack.github.io/aboutme/authors/s.-namba/</loc><lastmod>2021-04-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://felixdollack.github.io/aboutme/tags/gait/</loc>
-    <lastmod>2019-06-30T00:00:00+09:00</lastmod>
-  </url>
-  
+    <loc>https://felixdollack.github.io/aboutme/tag/smile/</loc><lastmod>2021-04-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://felixdollack.github.io/aboutme/publication/ispgr-june-2019-late/</loc>
-    <lastmod>2019-06-30T00:00:00+09:00</lastmod>
-  </url>
-  
+    <loc>https://felixdollack.github.io/aboutme/publication/sas-2021b/</loc><lastmod>2021-04-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://felixdollack.github.io/aboutme/tags/motor-planning/</loc>
-    <lastmod>2019-06-30T00:00:00+09:00</lastmod>
-  </url>
-  
+    <loc>https://felixdollack.github.io/aboutme/tag/spontaneous-smiles/</loc><lastmod>2021-04-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://felixdollack.github.io/aboutme/publication/ispgr-june-2019/</loc>
-    <lastmod>2019-06-29T00:00:00+09:00</lastmod>
-  </url>
-  
+    <loc>https://felixdollack.github.io/aboutme/tag/academic/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://felixdollack.github.io/aboutme/courses/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url>
-  
+    <loc>https://felixdollack.github.io/aboutme/categories/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://felixdollack.github.io/aboutme/publication_types/2/</loc>
-    <lastmod>2019-04-30T00:00:00+09:00</lastmod>
-  </url>
-  
+    <loc>https://felixdollack.github.io/aboutme/category/demo/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://felixdollack.github.io/aboutme/tags/acoustic-perception/</loc>
-    <lastmod>2019-04-30T00:00:00+09:00</lastmod>
-  </url>
-  
+    <loc>https://felixdollack.github.io/aboutme/authors/admin/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://felixdollack.github.io/aboutme/publication/frontiers-aug-2019/</loc>
-    <lastmod>2019-04-30T00:00:00+09:00</lastmod>
-  </url>
-  
+    <loc>https://felixdollack.github.io/aboutme/post/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://felixdollack.github.io/aboutme/tags/head-anticipation/</loc>
-    <lastmod>2019-04-30T00:00:00+09:00</lastmod>
-  </url>
-  
+    <loc>https://felixdollack.github.io/aboutme/post/getting-started/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://felixdollack.github.io/aboutme/tags/psychoacoustics/</loc>
-    <lastmod>2019-04-30T00:00:00+09:00</lastmod>
-  </url>
-  
+    <loc>https://felixdollack.github.io/aboutme/authors/%E5%90%B3%E6%81%A9%E9%81%94/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://felixdollack.github.io/aboutme/project/elastrocade/</loc>
-    <lastmod>2019-04-08T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc>https://felixdollack.github.io/aboutme/tag/%E5%BC%80%E6%BA%90/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://felixdollack.github.io/aboutme/tags/floor-projection/</loc>
-    <lastmod>2019-04-08T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc>https://felixdollack.github.io/aboutme/category/%E6%95%99%E7%A8%8B/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://felixdollack.github.io/aboutme/authors/minatsu-sugimoto/</loc>
-    <lastmod>2019-04-08T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc>https://felixdollack.github.io/aboutme/project/</loc><lastmod>2020-08-02T13:45:04+09:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://felixdollack.github.io/aboutme/authors/c.-imbery/</loc>
-    <lastmod>2017-11-01T00:00:00+09:00</lastmod>
-  </url>
-  
+    <loc>https://felixdollack.github.io/aboutme/project/robotmirroring/</loc><lastmod>2020-08-02T13:45:04+09:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://felixdollack.github.io/aboutme/authors/j.-bitzer/</loc>
-    <lastmod>2017-11-01T00:00:00+09:00</lastmod>
-  </url>
-  
+    <loc>https://felixdollack.github.io/aboutme/tag/biosignals/</loc><lastmod>2020-08-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://felixdollack.github.io/aboutme/publication/icat-nov-2017/</loc>
-    <lastmod>2017-11-01T00:00:00+09:00</lastmod>
-  </url>
-  
+    <loc>https://felixdollack.github.io/aboutme/authors/d.-a.-gomez-jauregui/</loc><lastmod>2020-08-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://felixdollack.github.io/aboutme/tags/vr/</loc>
-    <lastmod>2017-11-01T00:00:00+09:00</lastmod>
-  </url>
-  
+    <loc>https://felixdollack.github.io/aboutme/authors/d.-f.-paez-granados/</loc><lastmod>2020-08-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://felixdollack.github.io/aboutme/authors/g.-eberlei/</loc>
-    <lastmod>2013-03-01T00:00:00+09:00</lastmod>
-  </url>
-  
+    <loc>https://felixdollack.github.io/aboutme/authors/j.-v.-salazar/</loc><lastmod>2020-08-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://felixdollack.github.io/aboutme/authors/h.-l.-grahlmann/</loc>
-    <lastmod>2013-03-01T00:00:00+09:00</lastmod>
-  </url>
-  
+    <loc>https://felixdollack.github.io/aboutme/authors/m.-cuberos-balda/</loc><lastmod>2020-08-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://felixdollack.github.io/aboutme/authors/m.-hansen/</loc>
-    <lastmod>2013-03-01T00:00:00+09:00</lastmod>
-  </url>
-  
+    <loc>https://felixdollack.github.io/aboutme/publication/roman-2020/</loc><lastmod>2020-08-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://felixdollack.github.io/aboutme/authors/s.-raufer/</loc>
-    <lastmod>2013-03-01T00:00:00+09:00</lastmod>
-  </url>
-  
+    <loc>https://felixdollack.github.io/aboutme/project/elastrocade2/</loc><lastmod>2020-03-26T01:24:50+09:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://felixdollack.github.io/aboutme/tags/speech-intelligibility/</loc>
-    <lastmod>2013-03-01T00:00:00+09:00</lastmod>
-  </url>
-  
+    <loc>https://felixdollack.github.io/aboutme/authors/felix-dollack/</loc><lastmod>2020-03-26T01:24:50+09:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://felixdollack.github.io/aboutme/publication/daga-march-2013/</loc>
-    <lastmod>2013-03-01T00:00:00+09:00</lastmod>
-  </url>
-  
+    <loc>https://felixdollack.github.io/aboutme/tag/interactive-gameplay/</loc><lastmod>2020-03-26T01:24:50+09:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://felixdollack.github.io/aboutme/authors/admin/</loc>
-  </url>
-  
+    <loc>https://felixdollack.github.io/aboutme/authors/rina-katsube/</loc><lastmod>2020-03-26T01:24:50+09:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://felixdollack.github.io/aboutme/categories/</loc>
-  </url>
-  
-</urlset>
+    <loc>https://felixdollack.github.io/aboutme/authors/takeshi-ozu/</loc><lastmod>2020-03-26T01:24:50+09:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://felixdollack.github.io/aboutme/authors/yuta-kozaki/</loc><lastmod>2020-03-26T01:24:50+09:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://felixdollack.github.io/aboutme/publication/mhs_dec_2019/</loc><lastmod>2019-12-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://felixdollack.github.io/aboutme/authors/h.-kadone/</loc><lastmod>2019-12-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://felixdollack.github.io/aboutme/tag/localization/</loc><lastmod>2019-12-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://felixdollack.github.io/aboutme/tag/locomotion/</loc><lastmod>2019-12-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://felixdollack.github.io/aboutme/tag/virtual-sound/</loc><lastmod>2019-12-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://felixdollack.github.io/aboutme/tag/eye-movement/</loc><lastmod>2019-06-30T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://felixdollack.github.io/aboutme/tag/gait/</loc><lastmod>2019-06-30T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://felixdollack.github.io/aboutme/publication/ispgr-june-2019-late/</loc><lastmod>2019-06-30T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://felixdollack.github.io/aboutme/tag/motor-planning/</loc><lastmod>2019-06-30T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://felixdollack.github.io/aboutme/publication/ispgr-june-2019/</loc><lastmod>2019-06-29T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://felixdollack.github.io/aboutme/courses/</loc><lastmod>2019-05-05T00:00:00+01:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://felixdollack.github.io/aboutme/publication-type/2/</loc><lastmod>2019-04-30T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://felixdollack.github.io/aboutme/tag/acoustic-perception/</loc><lastmod>2019-04-30T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://felixdollack.github.io/aboutme/publication/frontiers-aug-2019/</loc><lastmod>2019-04-30T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://felixdollack.github.io/aboutme/tag/head-anticipation/</loc><lastmod>2019-04-30T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://felixdollack.github.io/aboutme/tag/psychoacoustics/</loc><lastmod>2019-04-30T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://felixdollack.github.io/aboutme/project/elastrocade/</loc><lastmod>2019-04-08T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://felixdollack.github.io/aboutme/tag/floor-projection/</loc><lastmod>2019-04-08T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://felixdollack.github.io/aboutme/authors/minatsu-sugimoto/</loc><lastmod>2019-04-08T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://felixdollack.github.io/aboutme/slides/</loc><lastmod>2019-02-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://felixdollack.github.io/aboutme/slides/example/</loc><lastmod>2019-02-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://felixdollack.github.io/aboutme/authors/c.-imbery/</loc><lastmod>2017-11-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://felixdollack.github.io/aboutme/authors/j.-bitzer/</loc><lastmod>2017-11-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://felixdollack.github.io/aboutme/publication/icat-nov-2017/</loc><lastmod>2017-11-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://felixdollack.github.io/aboutme/tag/vr/</loc><lastmod>2017-11-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://felixdollack.github.io/aboutme/authors/g.-eberlei/</loc><lastmod>2013-03-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://felixdollack.github.io/aboutme/authors/h.-l.-grahlmann/</loc><lastmod>2013-03-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://felixdollack.github.io/aboutme/authors/m.-hansen/</loc><lastmod>2013-03-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://felixdollack.github.io/aboutme/authors/s.-raufer/</loc><lastmod>2013-03-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://felixdollack.github.io/aboutme/tag/speech-intelligibility/</loc><lastmod>2013-03-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://felixdollack.github.io/aboutme/publication/daga-march-2013/</loc><lastmod>2013-03-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url></urlset>

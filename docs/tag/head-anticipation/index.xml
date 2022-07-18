@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>head anticipation | Felix</title>
+    <link>https://felixdollack.github.io/aboutme/tag/head-anticipation/</link>
+      <atom:link href="https://felixdollack.github.io/aboutme/tag/head-anticipation/index.xml" rel="self" type="application/rss+xml" />
+    <description>head anticipation</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 30 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://felixdollack.github.io/aboutme/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>head anticipation</title>
+      <link>https://felixdollack.github.io/aboutme/tag/head-anticipation/</link>
+    </image>
+    
+    <item>
+      <title>Gaze and head anticipation during locomotion with auditory instruction in the presence and absence of visual input</title>
+      <link>https://felixdollack.github.io/aboutme/publication/frontiers-aug-2019/</link>
+      <pubDate>Tue, 30 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://felixdollack.github.io/aboutme/publication/frontiers-aug-2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
