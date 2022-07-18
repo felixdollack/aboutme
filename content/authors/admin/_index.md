@@ -75,4 +75,4 @@ highlight_name: true
 
 My interests lie with (animal, artificial, hybrid, human) intelligence, affective computing and human-computer interaction. I got my PhD in the field of Human Informatics at the University of Tsukuba (Japan) and received BEng and MSc degrees in Hearing Technology and Audiology from Jade University of Applied Sciences Oldenburg and the University of Oldenburg (Germany).
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "cv/cv_dollack_2022.pdf" "newtab" >}}resumé{{< /staticref >}}.
+<!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "cv/cv_dollack_2022.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
