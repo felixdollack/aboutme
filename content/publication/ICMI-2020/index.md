@@ -8,8 +8,9 @@ publishDate: '2021-05-01T00:00:00Z'
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors:
  - M. Perusquia-Hernandez
- - C. K. Tan
  - F. Dollack
+ - C. K. Tan
+ - S. Namba
  - S. Ayabe-Kanamura
  - K. Suzuki
 
@@ -22,14 +23,14 @@ authors:
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types: ["1"]
+publication_types: ["0"]
 
 # Publication name and optional abbreviated version.
-publication: "In *Proceedings of 22nd ACM International Conference on Multimodal Interaction*."
-publication_short: "In *ICMI*"
+#publication: "In *Proceedings of 22nd ACM International Conference on Multimodal Interaction*."
+publication_short: "In *arXiv*"
 
 # Abstract.
-abstract: "Distal facial Electromyography (EMG) can be used to detect smiles and frowns with reasonable accuracy, by capitalizing on volume conduction to detect relevant muscle activity, even when the electrodes are not placed directly on the source muscle. The main advantage of this method is to prevent occlusion and obstruction of the facial expression production, whilst allowing EMG measurements. However, measuring EMG distally entails that the exact source of the facial movement is unknown. We propose a novel method to estimate specific Facial Action Units (AUs) from distal facial EMG and Computer Vision (CV). This method is based on Independent Component Analysis (ICA), Non-Negative Matrix Factorization (NNMF), and sorting of the resulting components to determine which is the most likely to correspond to each CV-labeled action unit (AU). Performance on the detection of AU06 (Orbicularis Oculi, (^-^) and AU12 (Zygomaticus Major, :) ) was estimated by calculating the agreement with Human Coders. The results showed an accuracy of 83%, and a Cohen's Kappa of 0.42 for AU6 and 0.43 for AU12. This demonstrates the potential of distal EMG to detect individual facial movements. Using this multimodal method, several AU synergies were identified. Finally, we also quantified the co-occurrence and timing of AU6 and AU12 in posed and spontaneous smiles."
+abstract: "Distal facial Electromyography (EMG) can be used to detect smiles and frowns with reasonable accuracy. It capitalizes on volume conduction to detect relevant muscle activity, even when the electrodes are not placed directly on the source muscle. The main advantage of this method is to prevent occlusion and obstruction of the facial expression production, whilst allowing EMG measurements. However, measuring EMG distally entails that the exact source of the facial movement is unknown. We propose a novel method to estimate specific Facial Action Units (AUs) from distal facial EMG and Computer Vision (CV). This method is based on Independent Component Analysis (ICA), Non-Negative Matrix Factorization (NNMF), and sorting of the resulting components to determine which is the most likely to correspond to each CV-labeled action unit (AU). Performance on the detection of AU06 (Orbicularis Oculi) and AU12 (Zygomaticus Major) was estimated by calculating the agreement with Human Coders. The results of our proposed algorithm showed an accuracy of 81% and a Cohen’s Kappa of 0.49 for AU6; and accuracy of 82% and a Cohen’s Kappa of 0.53 for AU12. This demonstrates the potential of distal EMG to detect individual facial movements. Using this multimodal method, several AU synergies were identified. We quantified the co-occurrence and timing of AU6 and AU12 in posed and spontaneous smiles using the human-coded labels, and for comparison, using the continuous CV-labels. The co-occurrence analysis was also performed on the EMG-based labels to uncover the relationship between muscle synergies and the kinematics of visible facial movement."
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -42,7 +43,12 @@ featured: false
 
 # Tags (optional).
 #   Set `tags: []` for no tags, or use the form `tags: ["A Tag", "Another Tag"]` for one or more tags.
-tags: ['facial emg', 'action units', 'ICA', 'computer vision', 'NNMF']
+tags:
+ - electromyography
+ - computer vision
+ - smiles
+ - FACS
+ - posed and spontaneous smiles
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -54,7 +60,7 @@ projects: []
 
 # Links (optional).
 url_pdf: ""
-url_preprint: ""
+url_preprint: https://arxiv.org/pdf/2008.08791
 url_code: ""
 url_dataset: ""
 url_project: ""
