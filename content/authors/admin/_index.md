@@ -10,8 +10,8 @@ role: Human Informatics
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Kyoto Sangyo University
-    url: https://www.kyoto-su.ac.jp/
+  - name: Vie Style, Inc
+    url: https://www.viestyle.co.jp/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include multimodal human sensing, affective computing and generative and explainable artificial intelligence.
