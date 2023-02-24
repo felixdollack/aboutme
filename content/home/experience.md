@@ -22,12 +22,20 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Software Engineer
+    company: Vie Style, Inc.
+    company_url: https://www.viestyle.co.jp
+    location: Kamakura, Japan
+    date_start: 2022-10-01
+    date_end: ''
+    description: ''
+
   - title: Postdoctoral Researcher
     company: Kyoto Sangyo University
     company_url: https://www.kyoto-su.ac.jp
     location: Kyoto, Japan
     date_start: 2022-04-01
-    date_end: ''
+    date_end: 2022-11-15
     description: ''
 
   - title: Chief Technology Officer
