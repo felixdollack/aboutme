@@ -49,7 +49,7 @@ content:
     - icon: twitter
       icon_pack: fab
       name: Follow me
-      link: 'https://twitter.com/febedo'
+      link: 'https://twitter.com/febendo'
     - icon: skype
       icon_pack: fab
       name: Skype
