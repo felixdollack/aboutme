@@ -53,7 +53,7 @@ content:
     - icon: skype
       icon_pack: fab
       name: Skype
-      link: 'skype:echo123?call'
+      link: 'skype:audiophil89?chat'
     - icon: researchgate
       icon_pack: fab
       name: Researchgate
