@@ -7,10 +7,10 @@ publishDate: '2019-05-01T00:00:00Z'
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors:
-  - F. Dollack
-  - M. Perusquía-Hernández
-  - H. Kadone
-  - K. Suzuki
+  - Felix Dollack
+  - Monica Perusquía-Hernández
+  - Hideki Kadone
+  - Kenji Suzuki
 
 # Publication type.
 # Legend:
@@ -25,7 +25,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated version.
 publication: "In *Frontiers of Human Neuroscience*."
-publication_short: "In *Frontiers*"
+publication_short: ""
 
 # Abstract.
 abstract: "Head direction has been identified to anticipate trajectory direction during human locomotion. Head anticipation has also been shown to persist in darkness. Arguably, the purpose for this anticipatory behavior is related to motor control and trajectory planning, independently of the visual condition. This implies that anticipation remains in the absence of visual input. However, experiments so far have only explored this phenomenon with visual instructions which intrinsically primes a visual representation to follow. The primary objective of this study is to describe head anticipation in auditory instructed locomotion, in the presence and absence of visual input. Auditory instructed locomotion trajectories were performed in two visual conditions: eyes open and eyes closed. First, 10 sighted participants localized static sound sources to ensure they could understand the sound cues provided. Afterwards, they listened to a moving sound source while actively following it. Later, participants were asked to reproduce the trajectory of the moving sound source without sound. Anticipatory head behavior was observed during trajectory reproduction in both eyes open and closed conditions. The results suggest that head anticipation is related to motor anticipation rather than mental simulation of the trajectory."

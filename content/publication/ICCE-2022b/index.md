@@ -7,12 +7,12 @@ publishDate: '2023-02-17T00:00:00Z'
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors:
- - R. Yamaguchi
- - F. Dollack
- - S. Panote
- - T. Yoshihisa
- - S. Shimojo
- - Y. Kawai
+ - Ryuta Yamaguchi
+ - Felix Dollack
+ - Siriaraya Panote
+ - Tomoki Yoshihisa
+ - Shinji Shimojo
+ - Yukiko Kawai
 
 # Publication type.
 # Legend:

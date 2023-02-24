@@ -7,10 +7,10 @@ publishDate: '2021-05-02T00:00:00Z'
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors:
- - M. Perusquía-Hernández
- - F. Dollack
- - S. Ayabe-Kanamura
- - K.Suzuki
+ - Monica Perusquía-Hernández
+ - Felix Dollack
+ - Saho Ayabe-Kanamura
+ - Kenji Suzuki
 
 # Publication type.
 # Legend:
@@ -25,7 +25,7 @@ publication_types: ["0"]
 
 # Publication name and optional abbreviated version.
 publication: "Society of Affective Computing."
-publication_short: "SAS"
+publication_short: "SAS 2021"
 
 # Abstract.
 abstract: "Affective processing of facial expressions is often assumed to be predominantly visual. Facial mimicry has been deemed as critical for the understanding of our own emotions and those of others. However, there is evidence that congenitally blind people display both spontaneous and posed facial expressions. This casts doubt on the role of facial mimicry in general emotion understanding. Hence, we propose to investigate smile production in the absence of vision. We devised several tasks with the goal of eliciting spontaneous, voluntary, and social smiles. Furthermore, we propose to compare the smiles of the blind to those of an average person. Pilot results showed a similar smiling behaviour. This suggests that visually mimicking the facial expressions of others is not a necessary requirement to develop spontaneous facial expression behaviour. Nevertheless, several facial involuntary movements, known as blindisms, might impair other’s recognition of the blind’s facial expressions."

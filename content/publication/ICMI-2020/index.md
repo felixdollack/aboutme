@@ -7,12 +7,12 @@ publishDate: '2021-05-01T00:00:00Z'
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors:
- - M. Perusquia-Hernandez
- - F. Dollack
- - C. K. Tan
- - S. Namba
- - S. Ayabe-Kanamura
- - K. Suzuki
+ - Monica Perusquia-Hernandez
+ - Felix Dollack
+ - Chun Kwang Tan
+ - Shushi Namba
+ - Saho Ayabe-Kanamura
+ - Kenji Suzuki
 
 # Publication type.
 # Legend:

@@ -7,9 +7,9 @@ publishDate: '2017-11-02T00:00:00Z'
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors:
- - F. Dollack
- - C. Imbery
- - J. Bitzer
+ - Felix Dollack
+ - Christina Imbery
+ - Joerg Bitzer
 
 # Digital Object Identifier (DOI)
 doi: "10.2312/egve.20171338"

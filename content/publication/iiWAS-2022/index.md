@@ -7,10 +7,10 @@ publishDate: '2022-11-20T00:00:00Z'
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors:
- - F. Yamaguchi
- - F. Dollack
- - M. Umeda
- - S. Nakajima
+ - Fumiya Yamaguchi
+ - Felix Dollack
+ - Mayumi Umeda
+ - Shinsuke Nakajima
 
 # Publication type.
 # Legend:

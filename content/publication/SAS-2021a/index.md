@@ -7,12 +7,12 @@ publishDate: '2021-05-02T00:00:00Z'
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors:
- - M. Perusquía-Hernández
- - F. Dollack
- - C.-K. Tan
- - S. Namba
- - S. Ayabe-Kanamura
- - K.Suzuki
+ - Monica Perusquía-Hernández
+ - Felix Dollack
+ - Chun Kwang Tan
+ - Shushi Namba
+ - Saho Ayabe-Kanamura
+ - Kenji Suzuki
 
 # Publication type.
 # Legend:
@@ -27,7 +27,7 @@ publication_types: ["0"]
 
 # Publication name and optional abbreviated version.
 publication: "Society of Affective Computing."
-publication_short: "SAS"
+publication_short: "SAS 2021"
 
 # Abstract.
 abstract: "Distal facial Electromyography (EMG) capitalizes on volume conduction to detect relevant muscle activity, even when the electrodes are not placed directly on the muscle. We used this technique and a Sensing-Source-Synergy approach to uncover the role of the Duchenne marker in spontaneous smiles. The EMG components related to the Duchenne marker and the Lip Corner Puller appear separately during posed smile production. However, during spontaneous smiles they move synchronously."

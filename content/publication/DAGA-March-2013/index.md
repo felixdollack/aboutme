@@ -7,11 +7,11 @@ publishDate: '2013-03-02T00:00:00Z'
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors:
-  - M. Hansen
-  - F. Dollack
-  - S. Raufer
-  - H.-L. Grahlmann
-  - G. Eberlei
+  - Martin Hansen
+  - Felix Dollack
+  - Stefan Raufer
+  - Hannah-Lina Grahlmann
+  - Geske Eberlei
 
 # Author notes (optional)
 #author_notes:

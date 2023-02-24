@@ -7,13 +7,13 @@ publishDate: '2023-02-17T00:00:00Z'
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors:
- - Y. Konishi
- - F. Dollack
- - S. Panote
- - D. Li
- - K. Tanaka
- - Y. Kawai
- - S. Nakajima
+ - Yuki Konishi
+ - Felix Dollack
+ - Siriaraya Panote
+ - Da Li
+ - Katsumi Tanaka
+ - Yukiko Kawai
+ - Shinsuke Nakajima
 
 # Publication type.
 # Legend:

@@ -9,12 +9,12 @@ publishDate: '2022-11-30T00:00:00Z'
 authors:
  - F. Dollack
  - Hoda Aitbaali
- - M. Cuberos-Balda
+ - Marisabel Cuberos-Balda
  - Luc Gommane
- - D. F. Paez-Granados
- - M. Perusquía-Hernández
- - J. V. Salazar
- - D. A. Gomez Jauregui
+ - Diego Felipe Paez-Granados
+ - Monica Perusquía-Hernández
+ - Jose Salazar
+ - David Gomez Jauregui
 
 # Publication type.
 # Legend:

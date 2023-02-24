@@ -7,10 +7,10 @@ publishDate: '2019-06-30T00:00:00Z'
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors:
- - F. Dollack
- - M. Perusquía-Hernández
- - H. Kadone
- - K. Suzuki
+ - Felix Dollack
+ - Monica Perusquía-Hernández
+ - Hideki Kadone
+ - Kenji Suzuki
 
 # Publication type.
 # Legend:
@@ -24,8 +24,8 @@ authors:
 publication_types: ["0"]
 
 # Publication name and optional abbreviated version.
-publication: "In *International Society of Posture and Gait World Congress (ISPGR)*."
-publication_short: "In *ISPGR*"
+publication: "In *International Society of Posture and Gait World Congress*."
+publication_short: "In *ISPGR World Congress*"
 
 # Abstract.
 abstract: ""
