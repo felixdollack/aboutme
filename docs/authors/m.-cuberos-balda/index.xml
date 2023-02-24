@@ -5,12 +5,20 @@
     <link>https://felixdollack.github.io/aboutme/authors/m.-cuberos-balda/</link>
       <atom:link href="https://felixdollack.github.io/aboutme/authors/m.-cuberos-balda/index.xml" rel="self" type="application/rss+xml" />
     <description>M. Cuberos-Balda</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 30 Nov 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://felixdollack.github.io/aboutme/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>M. Cuberos-Balda</title>
       <link>https://felixdollack.github.io/aboutme/authors/m.-cuberos-balda/</link>
     </image>
+    
+    <item>
+      <title>Augmenting interoceptive awareness with off-the-shelf sensors using visuo-haptic emotional stimulus</title>
+      <link>https://felixdollack.github.io/aboutme/publication/mexihc2022/</link>
+      <pubDate>Wed, 30 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://felixdollack.github.io/aboutme/publication/mexihc2022/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Robot Mirroring: Promoting Empathy with an Artificial Agent by Reflecting the User&#39;s Physiological Affective States</title>

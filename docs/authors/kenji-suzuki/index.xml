@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kenji Suzuki | Felix</title>
+    <link>https://felixdollack.github.io/aboutme/authors/kenji-suzuki/</link>
+      <atom:link href="https://felixdollack.github.io/aboutme/authors/kenji-suzuki/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kenji Suzuki</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 30 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://felixdollack.github.io/aboutme/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Kenji Suzuki</title>
+      <link>https://felixdollack.github.io/aboutme/authors/kenji-suzuki/</link>
+    </image>
+    
+    <item>
+      <title>Facial movement synergies and Action Unit detection from distal wearable Electromyography and Computer Vision</title>
+      <link>https://felixdollack.github.io/aboutme/publication/icmi-2020/</link>
+      <pubDate>Fri, 30 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://felixdollack.github.io/aboutme/publication/icmi-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Facial distal electromyography synergy analysis uncovers the relevance of the Duchenne marker in spontaneous smile production</title>
+      <link>https://felixdollack.github.io/aboutme/publication/sas-2021a/</link>
+      <pubDate>Tue, 13 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://felixdollack.github.io/aboutme/publication/sas-2021a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Solitary and social smile production in congenital blindness</title>
+      <link>https://felixdollack.github.io/aboutme/publication/sas-2021b/</link>
+      <pubDate>Tue, 13 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://felixdollack.github.io/aboutme/publication/sas-2021b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Auditory Locomotion Guidance System For Spatial Localization</title>
+      <link>https://felixdollack.github.io/aboutme/publication/mhs_dec_2019/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://felixdollack.github.io/aboutme/publication/mhs_dec_2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Head anticipation during auditory instructed locomotion​</title>
+      <link>https://felixdollack.github.io/aboutme/publication/ispgr-june-2019-late/</link>
+      <pubDate>Sun, 30 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://felixdollack.github.io/aboutme/publication/ispgr-june-2019-late/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effect of voluntary gaze movement on gait steering control</title>
+      <link>https://felixdollack.github.io/aboutme/publication/ispgr-june-2019/</link>
+      <pubDate>Sat, 29 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://felixdollack.github.io/aboutme/publication/ispgr-june-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gaze and head anticipation during locomotion with auditory instruction in the presence and absence of visual input</title>
+      <link>https://felixdollack.github.io/aboutme/publication/frontiers-aug-2019/</link>
+      <pubDate>Tue, 30 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://felixdollack.github.io/aboutme/publication/frontiers-aug-2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

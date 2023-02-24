@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Marisabel Cuberos-Balda | Felix</title>
+    <link>https://felixdollack.github.io/aboutme/authors/marisabel-cuberos-balda/</link>
+      <atom:link href="https://felixdollack.github.io/aboutme/authors/marisabel-cuberos-balda/index.xml" rel="self" type="application/rss+xml" />
+    <description>Marisabel Cuberos-Balda</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 30 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://felixdollack.github.io/aboutme/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Marisabel Cuberos-Balda</title>
+      <link>https://felixdollack.github.io/aboutme/authors/marisabel-cuberos-balda/</link>
+    </image>
+    
+    <item>
+      <title>Augmenting interoceptive awareness with off-the-shelf sensors using visuo-haptic emotional stimulus</title>
+      <link>https://felixdollack.github.io/aboutme/publication/mexihc2022/</link>
+      <pubDate>Wed, 30 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://felixdollack.github.io/aboutme/publication/mexihc2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robot Mirroring: Promoting Empathy with an Artificial Agent by Reflecting the User&#39;s Physiological Affective States</title>
+      <link>https://felixdollack.github.io/aboutme/publication/roman-2020/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://felixdollack.github.io/aboutme/publication/roman-2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
