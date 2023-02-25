@@ -28,7 +28,10 @@ experience:
     location: Kamakura, Japan
     date_start: 2022-10-01
     date_end: ''
-    description: ''
+    description: |
+      Responsibilities include:
+      - Cross-platform desktop application development.
+      - Development of machine learning models for in-ear EEG mood estimation.
 
   - title: Postdoctoral Researcher
     company: Kyoto Sangyo University
@@ -36,7 +39,10 @@ experience:
     location: Kyoto, Japan
     date_start: 2022-04-01
     date_end: 2022-11-15
-    description: ''
+    description: |
+      Responsibilities include:
+      - Development of a recommendation system for safe and enjoyable e-bike routes.
+      - Real-time advertising system based on user trajectories and location.
 
   - title: Chief Technology Officer
     company: Smart Care Tech
@@ -44,7 +50,12 @@ experience:
     location: Tokyo, Japan
     date_start: '2020-09-17'
     date_end: '2022-04-15'
-    description: ''
+    description: |
+      Responsibilities include:
+      - Design and development of a real-time human behavior analysis system.
+      - In-house tooling for recording management and video event querying.
+      - Development of web and Android applications for personalized medication.
+      - Supervision and guidance of two junior software developers.
 
   - title: Research Intern
     company: NTT Communication Science Laboratories
