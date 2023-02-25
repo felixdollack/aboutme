@@ -64,7 +64,7 @@ social:
 # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: cv/cv_dollack_2022.pdf
+    link: cv/cv_dollack_2023.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
