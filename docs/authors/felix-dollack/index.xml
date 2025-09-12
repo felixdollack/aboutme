@@ -5,9 +5,9 @@
     <link>https://felixdollack.github.io/aboutme/authors/felix-dollack/</link>
       <atom:link href="https://felixdollack.github.io/aboutme/authors/felix-dollack/index.xml" rel="self" type="application/rss+xml" />
     <description>Felix Dollack</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 17 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 17 Feb 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://felixdollack.github.io/aboutme/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://felixdollack.github.io/aboutme/media/icon_hu_9d9b593248f3c06d.png</url>
       <title>Felix Dollack</title>
       <link>https://felixdollack.github.io/aboutme/authors/felix-dollack/</link>
     </image>
@@ -112,10 +112,10 @@ on the inside. Every touch was reflected with a light animation inside the butto
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /aboutme/project/elastrocade2/ars_hudd6bf9730712fd75d1255d1d43da5a2f_1024687_bc929408e74cf736f3beaa15b85e6128.webp 400w,
-               /aboutme/project/elastrocade2/ars_hudd6bf9730712fd75d1255d1d43da5a2f_1024687_c5113da2dc49e42aab3f4bb8c34ac6db.webp 760w,
-               /aboutme/project/elastrocade2/ars_hudd6bf9730712fd75d1255d1d43da5a2f_1024687_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://felixdollack.github.io/aboutme/aboutme/project/elastrocade2/ars_hudd6bf9730712fd75d1255d1d43da5a2f_1024687_bc929408e74cf736f3beaa15b85e6128.webp&#34;
+               /aboutme/project/elastrocade2/ars_hu_bb0dcb9e914073a4.webp 400w,
+               /aboutme/project/elastrocade2/ars_hu_4a0c6b2d82a292c5.webp 760w,
+               /aboutme/project/elastrocade2/ars_hu_e1a410d2f0fed4fe.webp 1200w&#34;
+               src=&#34;https://felixdollack.github.io/aboutme/project/elastrocade2/ars_hu_bb0dcb9e914073a4.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -192,10 +192,10 @@ feedback.&lt;/p&gt;
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /aboutme/project/elastrocade/first_iteration_hueec38988181bb29c8c046ae8e8eb646e_122240_c21ec3e51425fc514c87e02d5a7cb169.webp 400w,
-               /aboutme/project/elastrocade/first_iteration_hueec38988181bb29c8c046ae8e8eb646e_122240_99d06c4180b064604bd79adca5c035c7.webp 760w,
-               /aboutme/project/elastrocade/first_iteration_hueec38988181bb29c8c046ae8e8eb646e_122240_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://felixdollack.github.io/aboutme/aboutme/project/elastrocade/first_iteration_hueec38988181bb29c8c046ae8e8eb646e_122240_c21ec3e51425fc514c87e02d5a7cb169.webp&#34;
+               /aboutme/project/elastrocade/first_iteration_hu_454fd5b0f40da546.webp 400w,
+               /aboutme/project/elastrocade/first_iteration_hu_bf7b2ba19761ca07.webp 760w,
+               /aboutme/project/elastrocade/first_iteration_hu_b13fbdaa96eeae92.webp 1200w&#34;
+               src=&#34;https://felixdollack.github.io/aboutme/project/elastrocade/first_iteration_hu_454fd5b0f40da546.webp&#34;
                width=&#34;760&#34;
                height=&#34;428&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -226,10 +226,10 @@ of the hemet (not in the picture) are used to track the position of the players.
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /aboutme/project/elastrocade/head_hucd627687aab8f300fddbe5e2da363869_509152_eb3bb672e680d899f77cdc7a178809ff.webp 400w,
-               /aboutme/project/elastrocade/head_hucd627687aab8f300fddbe5e2da363869_509152_d3580fc670367f697d35bb36c513c400.webp 760w,
-               /aboutme/project/elastrocade/head_hucd627687aab8f300fddbe5e2da363869_509152_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://felixdollack.github.io/aboutme/aboutme/project/elastrocade/head_hucd627687aab8f300fddbe5e2da363869_509152_eb3bb672e680d899f77cdc7a178809ff.webp&#34;
+               /aboutme/project/elastrocade/head_hu_7dbdbd6622847fa3.webp 400w,
+               /aboutme/project/elastrocade/head_hu_4758103aa6b0198f.webp 760w,
+               /aboutme/project/elastrocade/head_hu_7913c6ab5d7f8e4b.webp 1200w&#34;
+               src=&#34;https://felixdollack.github.io/aboutme/project/elastrocade/head_hu_7dbdbd6622847fa3.webp&#34;
                width=&#34;468&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -260,10 +260,10 @@ defense when one player of the team squats during the game.&lt;/p&gt;
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /aboutme/project/elastrocade/birdview_hu6f82f3acda3296b350e97c3dcc5df37b_162017_534e876926ca1e3410b8a9230c7308bb.webp 400w,
-               /aboutme/project/elastrocade/birdview_hu6f82f3acda3296b350e97c3dcc5df37b_162017_723ac7de79b3f5d607480d0e247c408d.webp 760w,
-               /aboutme/project/elastrocade/birdview_hu6f82f3acda3296b350e97c3dcc5df37b_162017_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://felixdollack.github.io/aboutme/aboutme/project/elastrocade/birdview_hu6f82f3acda3296b350e97c3dcc5df37b_162017_534e876926ca1e3410b8a9230c7308bb.webp&#34;
+               /aboutme/project/elastrocade/birdview_hu_293049190098d92c.webp 400w,
+               /aboutme/project/elastrocade/birdview_hu_2db2554599e8547d.webp 760w,
+               /aboutme/project/elastrocade/birdview_hu_de2ef4f73f813ac0.webp 1200w&#34;
+               src=&#34;https://felixdollack.github.io/aboutme/project/elastrocade/birdview_hu_293049190098d92c.webp&#34;
                width=&#34;760&#34;
                height=&#34;519&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -292,10 +292,10 @@ floor area and players move along the sides of the projection.&lt;/p&gt;
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /aboutme/project/elastrocade/final_huee9d7e458aae3ea1783a1ef94742059c_566910_3e939a9948654644ed0c421306dfc35a.webp 400w,
-               /aboutme/project/elastrocade/final_huee9d7e458aae3ea1783a1ef94742059c_566910_db031b918994cc996cc80f43bbf1eac8.webp 760w,
-               /aboutme/project/elastrocade/final_huee9d7e458aae3ea1783a1ef94742059c_566910_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://felixdollack.github.io/aboutme/aboutme/project/elastrocade/final_huee9d7e458aae3ea1783a1ef94742059c_566910_3e939a9948654644ed0c421306dfc35a.webp&#34;
+               /aboutme/project/elastrocade/final_hu_e6234d7540c2807.webp 400w,
+               /aboutme/project/elastrocade/final_hu_a31ffc20000187d0.webp 760w,
+               /aboutme/project/elastrocade/final_hu_a5ef107e8c9ff06b.webp 1200w&#34;
+               src=&#34;https://felixdollack.github.io/aboutme/project/elastrocade/final_hu_e6234d7540c2807.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
